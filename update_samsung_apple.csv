@@ -1,0 +1,1532 @@
+,Brand,Model,Price(CAD),Price_save(CAD),Memory-Built-in(GB),Ram_size(GB),Display_resolution(pixels),Display_size(in),Colour,CPU,Front-Facing Camera Resolution(MP),Rear Camera Resolution(MP)  
+0,SAMSUNG,Galaxy A10e,179.99, 20,32.0,2,720 x 1560,5.8,Black,Octa-core Snapdragon 855,5.0,8.0
+1,SAMSUNG,Galaxy S20,1849.99,no sale,128.0,2,720 x 1560,5.8,Black,Octa-core Snapdragon 865,5.0,8.0
+2,SAMSUNG,Galaxy S20,1319.99,no sale,128.0,2,720 x 1560,5.8,Black,Octa-core Snapdragon 865,5.0,8.0
+4,SAMSUNG,Galaxy S20,2109.99,no sale,512.0,2,720 x 1560,5.8,Black,Octa-core Snapdragon 865,5.0,8.0
+5,SAMSUNG,Galaxy A20,149.97, 200,512.0,3,720 x 1560,5.8,Black,Octa-core Snapdragon 865,8.0,13.0
+6,SAMSUNG,Galaxy Note10+,939.99, 560,256.0,12,3040 x 1440,6.8,Aura Black,Snapdragon 855,10.0,12.0
+7,SAMSUNG,Galaxy A70,629.99,no sale,128.0,6,1080 x 2400,6.7,Aura Black,Snapdragon 855,32.0,32.0
+8,SAMSUNG,Galaxy S20+,1579.99,no sale,128.0,6,1080 x 2400,6.7,Black,Octa-core Snapdragon 865,32.0,32.0
+9,SAMSUNG,Galaxy A50,449.95,no sale,64.0,4,1080 x 2340,6.4,Black,Octa-core Snapdragon 865,25.0,25.0
+10,SAMSUNG,Galaxy A51,368.9, 131,64.0,4,1080 x 2340,6.4,Black,Octa-core Snapdragon 865,25.0,25.0
+11,SAMSUNG,Galaxy S20+,1579.99,no sale,128.0,4,1080 x 2340,6.4,Black,Octa-core Snapdragon 865,25.0,25.0
+12,SAMSUNG,Galaxy A50,399.95,no sale,64.0,4,1080 x 2340,6.4,Black,Octa-core Snapdragon 865,25.0,25.0
+13,SAMSUNG,Galaxy A20,349.99,no sale,32.0,3,720 x 1560,6.4,Black,Octa-core Snapdragon 865,8.0,13.0
+14,SAMSUNG,Galaxy S10,639.99, 360,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+15,SAMSUNG,Galaxy Note10+,1459.99,no sale,256.0,12,3040 x 1440,6.8,Prism Black,Snapdragon 855,10.0,12.0
+16,SAMSUNG,Galaxy A50,249.99, 200,256.0,4,1080 x 2340,6.8,Prism Black,Snapdragon 855,25.0,25.0
+17,SAMSUNG,Galaxy S7,163.0, 134,32.0,4,2560 x 1440,6.8,Black Onyx,1.6GHz,5.0,12.0
+18,SAMSUNG,Galaxy S9,389.84, 210,64.0,4,samoled,5.8,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+19,SAMSUNG,Galaxy S8,344.0, 155,64.0,4,2960 x 1440,5.8,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+20,SAMSUNG,Galaxy S10+,1129.99,no sale,128.0,8,3040 x 1440,6.4,Midnight Black,Octa-core Snapdragon 855,10.0,16.0
+21,SAMSUNG,Galaxy J3,99.99, 90,128.0,2,1280 x 720,6.4,Midnight Black,Octa-core Snapdragon 855,5.0,8.0
+22,SAMSUNG,Galaxy S10,979.99,no sale,128.0,8,3040 x 1440,6.1,Midnight Black,Octa-core Snapdragon 855,10.0,16.0
+23,SAMSUNG,Galaxy A10S,198.99, 101,32.0,2,3040 x 1440,6.2,BLACK,Octa-core Snapdragon 855,10.0,13.0
+24,SAMSUNG,Galaxy Z,1819.99,no sale,256.0,8,2636 x 1080 amoled,6.7,Mirror Black,7nm Octa-core Processor,10.0,12.0
+25,SAMSUNG,Galaxy A20,279.99,no sale,32.0,3,720 x 1560,6.4,Mirror Black,7nm Octa-core Processor,8.0,13.0
+26,SAMSUNG,Galaxy A70,499.99,no sale,128.0,6,1080 x 2400,6.7,Mirror Black,7nm Octa-core Processor,32.0,32.0
+27,SAMSUNG,Galaxy A10,198.99, 26,32.0,2,720 x 1520  19:9 ratio,6.2,Blue,Octa-core (2x1.6 GHz & 6x1.35 GHz),5.0,13.0
+28,SAMSUNG,Galaxy Note10,1259.99,no sale,256.0,8,2280 x 1080,6.3,Blue,Snapdragon 855,10.0,48.0
+29,SAMSUNG,Galaxy A70,412.98, 187,128.0,6,1080x2400,6.7,White,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),10.0,45.0
+30,SAMSUNG,Galaxy Note10+,1459.99,no sale,256.0,12,3040 x 1440,6.8,White,Snapdragon 855,10.0,12.0
+31,SAMSUNG,Galaxy A20,191.0, 109,32.0,12,3040 x 1440,6.8,White,Snapdragon 855,10.0,12.0
+32,SAMSUNG,Galaxy Note10,1259.99,no sale,256.0,8,2280 x 1080,6.3,White,Snapdragon 855,10.0,48.0
+33,SAMSUNG,Galaxy S10+,1129.99,no sale,128.0,8,3040 x 1440,6.4,White,Octa-core Snapdragon 855,10.0,16.0
+34,SAMSUNG,Galaxy S7,164.8, 128,0.32,4,2560 x 1440,5.1,Black,Octa-core Snapdragon 855,5.0,12.0
+35,SAMSUNG,Galaxy A70,419.99, 130,128.0,6,1080 x 2400  20:9 ratio,6.7,black,Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver),32.0,32.0
+36,SAMSUNG,Galaxy Note10+,1399.99,no sale,256.0,12,3040 x 1440,6.8,Aura Glow,Snapdragon 855,10.0,12.0
+37,SAMSUNG,Galaxy A51,373.52, 126,256.0,12,3040 x 1440,6.8,Aura Glow,Snapdragon 855,10.0,12.0
+38,SAMSUNG,Galaxy A50,379.99,no sale,64.0,4,1080 x 2340,6.4,Aura Glow,Snapdragon 855,25.0,25.0
+39,SAMSUNG,Galaxy S8,288.89, 10,64.0,4,2960 x 1440,5.8,Orchid Gray,2.35GHz; 1.9GHz,8.0,12.0
+40,SAMSUNG,Galaxy A51,378.18, 122,64.0,4,2960 x 1440,5.8,Orchid Gray,2.35GHz; 1.9GHz,8.0,12.0
+41,SAMSUNG,Galaxy Note,574.94, 425,64.0,4,2960 x 1440,5.8,Orchid Gray,2.35GHz; 1.9GHz,8.0,12.0
+42,SAMSUNG,Galaxy S10+,798.4, 201,64.0,8,3040 x 1440,6.4,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+43,SAMSUNG,Galaxy S10,979.99,no sale,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+44,SAMSUNG,Galaxy S7,168.85,no sale,32.0,4,2560 x 1440,6.1,Gold Platinum,1.6GHz,5.0,12.0
+45,SAMSUNG,Galaxy S10,639.99, 360,128.0,8,3040 x 1440,6.1,Prism White,Octa-core Snapdragon 855,10.0,16.0
+46,SAMSUNG,Galaxy S10e,628.99, 171,128.0,6,2280 x 1080 full hd+,5.8,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+47,SAMSUNG,Galaxy A71,599.99, 100,128.0,6,2280 x 1080 full hd+,5.8,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+48,SAMSUNG,Galaxy Note,436.0,no sale,128.0,6,2280 x 1080 full hd+,6.3,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+49,SAMSUNG,Galaxy Note10,809.0, 390,128.0,8,2280 x 1080,6.3,Prism Black,Snapdragon 855,10.0,48.0
+50,SAMSUNG,Galaxy S10+,999.99,no sale,128.0,8,3040 x 1440,6.4,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+51,SAMSUNG,Galaxy S9,388.72, 211,64.0,4,samoled,5.8,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+52,SAMSUNG,Galaxy A30s,281.0, 219,64.0,4,720 x 1560,6.4,Prism Crush Black,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),16.0,40.0
+53,SAMSUNG,Galaxy S20+,1779.99,no sale,512.0,4,720 x 1560,6.4,Black,Octa-core Snapdragon 865,16.0,40.0
+54,SAMSUNG,Galaxy Note10+,847.8, 250,256.0,12,3040 x 1440,6.8,Aura Black,Snapdragon 855,10.0,12.0
+55,SAMSUNG,A20S 32GB,224.99, 175,256.0,3,3040 x 1440,6.8,Aura Black,Snapdragon 855,10.0,12.0
+56,SAMSUNG,Galaxy S7,186.0, 105,32.0,4,2560 x 1440,5.5,Black Onyx,1.6GHz,5.0,12.0
+57,SAMSUNG,Galaxy A80,689.99, 310,128.0,8,1080 x 2400,6.7,Black,1.8,5.0,48.0
+58,SAMSUNG,Galaxy Note,879.99, 420,128.0,6,2960x1440,6.4,Black,1.8,5.0,48.0
+59,SAMSUNG,Galaxy Note,1049.99, 350,128.0,6,2960x1440,6.4,Black,1.8,5.0,48.0
+60,SAMSUNG,Galaxy S10,829.99,no sale,128.0,8,3040 x 1440,6.1,Prism Green,Samsung Exynos 9820,10.0,16.0
+61,SAMSUNG,Galaxy A50,379.99,no sale,64.0,4,1080 x 2340,6.4,Prism Green,Samsung Exynos 9820,25.0,25.0
+62,SAMSUNG,Galaxy A50,338.0, 111,64.0,4,1080 x 2340  19.5:9 ratio,6.4,black,Octa-core (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53),1.08,25.0
+63,SAMSUNG,Galaxy S10,639.99, 360,128.0,8,3040 x 1440,6.1,Prism Blue,Octa-core Snapdragon 855,10.0,16.0
+64,SAMSUNG,Galaxy S9+,408.0, 191,64.0,6,samoled,6.2,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+65,SAMSUNG,Galaxy A50,298.99, 101,64.0,4,1080 x 2340,6.2,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,25.0,25.0
+66,SAMSUNG,Galaxy A10e,149.99, 10,32.0,2,720 x 1560,5.8,Black,Qualcomm MSM8998 Snapdragon 845,5.0,8.0
+67,SAMSUNG,Galaxy S9,380.0,no sale,64.0,4,samoled,5.8,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+68,SAMSUNG,Galaxy S10+,698.0, 301,128.0,8,3040 x 1440,6.4,Prism White,Octa-core Snapdragon 855,10.0,16.0
+69,SAMSUNG,Galaxy S6,122.0, 177,32.0,3,2560 x 1440,5.1,Sapphire Black,Octa-core (4x2.1 GHz Cortex-A57 & 4x1.5 GHz Cortex-A53),5.0,16.0
+70,SAMSUNG,Galaxy A10S,199.89, 100,32.0,2,2560 x 1440,6.2,BLUE,Octa-core (4x2.1 GHz Cortex-A57 & 4x1.5 GHz Cortex-A53),5.0,13.0
+71,SAMSUNG,Galaxy S5,88.88, 51,16.0,2,2560 x 1440,6.2,Black,Octa-core (4x2.1 GHz Cortex-A57 & 4x1.5 GHz Cortex-A53),5.0,13.0
+72,SAMSUNG,Galaxy S10,779.0, 220,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+73,SAMSUNG,Galaxy Note10+,1299.99,no sale,256.0,12,3040 x 1440,6.8,Prism Black,Snapdragon 855,10.0,12.0
+74,SAMSUNG,Galaxy Note10+,897.0, 402,256.0,12,3040 x 1440,6.8,Prism Black,Snapdragon 855,10.0,12.0
+75,SAMSUNG,Galaxy A70,398.0, 101,256.0,6,1080 x 2400,6.8,Prism Black,Snapdragon 855,32.0,32.0
+76,SAMSUNG,Galaxy Z,1819.99,no sale,256.0,8,2636 x 1080 amoled,6.7,Mirror Purple,7nm Octa-core Processor,10.0,12.0
+77,SAMSUNG,Galaxy S10+,949.99, 250,128.0,8,1440 x 3040  19:9 ratio,6.4,Prism Black,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA,10.0,48.0
+78,SAMSUNG,Galaxy S10,610.0, 282,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+79,SAMSUNG,Galaxy A50,284.0, 14,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+80,SAMSUNG,A20S 32GB,222.42, 108,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+81,SAMSUNG,Galaxy A10,189.99, 40,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+82,SAMSUNG,Galaxy S10+,899.0,no sale,128.0,8,3040 x 1440,6.4,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+83,SAMSUNG,Galaxy S10,668.0, 231,128.0,8,3040 x 1440,6.4,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+84,SAMSUNG,Galaxy Note9,610.0, 389,128.0,6,2960x1440,6.4,Ocean Blue,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+85,SAMSUNG,Galaxy S10,949.99,no sale,128.0,8,3040 x 1440,6.1,Ocean Blue,Octa-core Snapdragon 855,10.0,16.0
+86,SAMSUNG,GALAXY A10E,169.99, 130,128.0,2,720 x 1560,5.83,Ocean Blue,Octa-core Snapdragon 855,10.0,16.0
+87,SAMSUNG,Galaxy XCover4,109.0, 90,16.0,2,720 x 1280,5.0,Black,Quad-core 1.4 GHz Cortex-A53,5.0,13.0
+88,SAMSUNG,Galaxy J7,177.99, 12,16.0,2,720 x 1280,5.0,Black,Quad-core 1.4 GHz Cortex-A53,5.0,13.0
+89,SAMSUNG,Galaxy S10e,629.99, 170,128.0,6,2280 x 1080 full hd+,5.8,Prism Blue,Octa-core Snapdragon 855,10.0,16.0
+90,SAMSUNG,Galaxy S10,649.0, 250,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+91,SAMSUNG,Galaxy A50,599.0,no sale,64.0,4,1080 x 2340,6.4,Blue,Octa-core (4x2.3 GHz Cortex-A73,1.08,25.0
+92,SAMSUNG,Galaxy A10,179.99,no sale,64.0,2,1080 x 2340,6.4,Gold,Octa-core (4x2.3 GHz Cortex-A73,1.08,13.0
+93,SAMSUNG,Galaxy Note,1149.99, 230,256.0,12,1440 x 3040,6.8,Aura Black,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) - EMEA/LATAM,10.0,12.0
+94,SAMSUNG,Galaxy S10e,576.99,no sale,128.0,6,2280 x 1080 full hd+,5.8,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+96,CERTIFIED,Refurbished -,79.99, 60,128.0,8,3040 x 1440,6.4,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+97,SAMSUNG,Galaxy S10e,899.99,no sale,128.0,6,2280 x 1080 full hd+,5.8,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+99,SAMSUNG,Galaxy A20,279.99, 120,32.0,3,3040 x 1440,6.8,BLACK,Snapdragon 855,10.0,8.0
+100,SAMSUNG,Galaxy S10,798.89, 201,128.0,8,3040 x 1440,6.1,Prism Black,Samsung Exynos 9820,10.0,16.0
+101,SAMSUNG,Galaxy S10+,949.99, 350,128.0,8,3040 x 1440,6.4,Prism Green,Samsung Exynos 9820,10.0,16.0
+102,SAMSUNG,Galaxy S6,149.09, 101,32.0,3,1440 x 2560,5.1,Black,Processor Number 7420Processor Core Qty 8-core64-bit Architecture.,10.0,16.0
+103,SAMSUNG,Galaxy Note,1149.99, 350,256.0,12,1440 x 3040,6.8,Aura Glow,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) - EMEA/LATAM,10.0,12.0
+104,SAMSUNG,Galaxy Note,343.98, 155,256.0,6,1440 x 3040,6.3,Aura Glow,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) - EMEA/LATAM,10.0,12.0
+105,SAMSUNG,Galaxy A51,378.34, 122,256.0,6,1440 x 3040,6.3,Aura Glow,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) - EMEA/LATAM,10.0,12.0
+106,SAMSUNG,Galaxy S9,399.0, 300,256.0,4,samoled,6.3,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+107,SAMSUNG,Galaxy S8+,347.5, 152,64.0,4,2960 x 1440,6.2,Orchid Gray,1.9GHz,8.0,12.0
+108,SAMSUNG,A20 32GB,219.99, 130,64.0,4,2960 x 1440,6.2,Orchid Gray,1.9GHz,8.0,12.0
+109,SAMSUNG,Galaxy Note10,1149.99,no sale,256.0,8,2280 x 1080,6.3,Orchid Gray,Snapdragon 855,10.0,48.0
+111,SAMSUNG,Galaxy S8,401.9, 97,256.0,4,1440 x 2960,6.3,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+112,SAMSUNG,Galaxy S10e,629.99, 170,128.0,6,2280 x 1080 full hd+,5.8,Prism White,Octa-core Snapdragon 855,10.0,16.0
+113,SAMSUNG,Galaxy A8,399.99,no sale,32.0,4,2220 x 1080,5.6,Black,Exynos 7885 2.2GHz 1.6GHz,16.0,16.0
+114,SAMSUNG,SM-G960WA64 Galaxy,499.0, 200,64.0,4,2960 x 1440,5.8,Titamium Grey,Exynos 7885 2.2GHz 1.6GHz,16.0,12.0
+115,SAMSUNG,GALAXY S5,108.0, 91,16.0,4,2960 x 1440,5.8,Titamium Grey,Exynos 7885 2.2GHz 1.6GHz,16.0,12.0
+116,SAMSUNG,Galaxy A10,195.0,no sale,32.0,2,720 x 1520  19:9 ratio,6.2,Titamium Grey,Octa-core (2x1.6 GHz & 6x1.35 GHz),16.0,12.0
+117,SAMSUNG,Galaxy S10+,699.0, 300,32.0,8,3040 x 1440,6.4,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+118,SAMSUNG,Galaxy A30s-,292.72, 107,64.0,4,720 x 1560,6.4,Prism Crush White,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),16.0,40.0
+119,SAMSUNG,Galaxy Note,371.49, 329,64.0,6,1440x2960,6.3,Black,Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53),16.0,24.0
+120,SAMSUNG,A50 128GB,367.72, 132,128.0,4,1080 x 2340,6.4,Blue,Octa-core (4x2.3 GHz Cortex-A73,1.08,25.0
+121,SAMSUNG,Galaxy J2,102.72, 97,16.0,1,540x960&nbsp;,5.0,Black,Quad-core 1.4 GHz Cortex-A53,1.08,8.0
+122,UNLOCKED,Samsung Galaxy,749.99,no sale,64.0,6,samoled,6.2,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+123,SAMSUNG,Galaxy GRAND,199.99,no sale,64.0,6,samoled,6.2,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+124,SAMSUNG,Galaxy Rugby,79.99, 40,64.0,6,samoled,6.2,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+125,SAMSUNG,Galaxy A10e,154.0, 95,64.0,2,720 x 1560,6.2,Black,Qualcomm MSM8998 Snapdragon 845,5.0,8.0
+126,SAMSUNG,Galaxy J3,111.99, 87,64.0,2,720 x 1560,6.2,Black,Qualcomm MSM8998 Snapdragon 845,5.0,8.0
+127,SAMSUNG,Galaxy S5,129.99, 170,64.0,2,720 x 1560,6.2,Black,Qualcomm MSM8998 Snapdragon 845,5.0,8.0
+128,SAMSUNG,A5 (2017),149.0, 31,32.0,3,720 x 1560,5.2,Black,Qualcomm MSM8998 Snapdragon 845,5.0,8.0
+129,SAMSUNG,Galaxy S10e,599.99, 400,32.0,3,720 x 1560,5.2,Black,Qualcomm MSM8998 Snapdragon 845,5.0,8.0
+130,SAMSUNG,Galaxy Note,714.99, 385,32.0,6,2960x1440,5.2,Black,Qualcomm MSM8998 Snapdragon 845,5.0,8.0
+131,SAMSUNG,Galaxy S9,439.69, 160,64.0,4,samoled,5.8,Coral Blue,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+132,SAMSUNG,Galaxy A50,399.72, 100,64.0,4,1080 x 2340,6.4,Black,Octa-core (4x2.3 GHz Cortex-A73,1.08,25.0
+133,SAMSUNG,Galaxy A10,199.99, 29,32.0,2,720 x 1520,6.2,Black,Octa-core (2x1.6 GHz & 6x1.35 GHz),5.0,13.0
+134,SAMSUNG,Galaxy Note,869.99, 430,128.0,6,2960x1440,6.4,Black,Octa-core (2x1.6 GHz & 6x1.35 GHz),5.0,13.0
+135,SAMSUNG,Galaxy A20S,224.99,no sale,128.0,6,2960x1440,6.4,Black,Octa-core (2x1.6 GHz & 6x1.35 GHz),5.0,13.0
+136,SAMSUNG,Galaxy Note10,809.99, 450,128.0,8,2280 x 1080,6.4,Black,Snapdragon 855,10.0,48.0
+137,SAMSUNG,Galaxy Note,199.0, 200,64.0,4,2560 x 1440,5.7,Black,Octa-core (4x2.1 GHz Cortex-A57 & 4x1.5 GHz Cortex-A53),5.0,16.0
+138,SAMSUNG,Galaxy S7,152.02, 98,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+139,SAMSUNG,Galaxy S9+,419.99, 179,64.0,6,samoled,6.2,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+140,SAMSUNG,Galaxy A20,197.0, 102,32.0,3,720 x 1560,6.4,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,13.0
+141,SAMSUNG,Galaxy A30,289.0, 111,32.0,3,1080 x 2340,6.4,Blue,Octa-core (2x1.8 GHz Cortex-A73&nbsp;,1.08,16.0
+142,SAMSUNG,Galaxy S10e,729.49, 221,32.0,3,1080 x 2340,6.4,Blue,Octa-core (2x1.8 GHz Cortex-A73&nbsp;,1.08,16.0
+143,SAMSUNG,Galaxy S7,159.0, 138,32.0,4,1440 x 2560,5.1,Silver Titanium,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+144,SAMSUNG,Galaxy A30,349.99,no sale,64.0,4,1080 x 2340,6.4,Black,2x1.8 GHz,16.0,16.0
+145,SAMSUNG,Galaxy S9,649.99, 200,64.0,6,1440 x 2960,6.2,Midnight Black,2x1.8 GHz,8.0,12.0
+146,SAMSUNG,Galaxy S8,299.99, 140,64.0,4,2960 x 1440,5.8,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+147,SAMSUNG,Galaxy S9,379.99, 119,64.0,4,samoled,5.8,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+148,SAMSUNG,Galaxy A8,229.0, 169,32.0,4,2220 x 1080,5.8,Black,Exynos 7885 2.2GHz 1.6GHz,16.0,16.0
+149,SAMSUNG,Galaxy S10,949.99,no sale,128.0,8,3040 x 1440,6.1,Black,Octa-core Snapdragon 855,10.0,16.0
+150,SAMSUNG,Galaxy M30,279.99, 50,128.0,8,3040 x 1440,6.1,Black,Octa-core Snapdragon 855,10.0,16.0
+151,UNLOCKED,Samsung Galaxy,729.99,no sale,64.0,6,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+152,SAMSUNG,Galaxy A5,159.19, 240,32.0,3,1080 x 1920,5.2,Blue,Octa-core 1.9 GHz Cortex-A53,16.0,16.0
+153,SAMSUNG,Galaxy S6,144.0, 3,32.0,3,1440 x 2560,5.1,Black,Processor Number 7420Processor Core Qty 8-core64-bit Architecture.,16.0,16.0
+154,SAMSUNG,Galaxy S10+,699.99, 200,128.0,8,3040 x 1440,6.4,Prism White,Octa-core Snapdragon 855,10.0,16.0
+155,SAMSUNG,Galaxy Note,164.98, 135,128.0,8,3040 x 1440,6.4,Prism White,Octa-core Snapdragon 855,10.0,16.0
+156,UNLOCKED,Samsung Galaxy,699.99,no sale,64.0,4,samoled,5.8,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+157,SAMSUNG,Galaxy A8,299.99,no sale,64.0,4,2220 x 1080,5.6,Black,2.2GHz 1.6GHz,16.0,16.0
+158,SAMSUNG,Galaxy S8,340.0, 159,64.0,4,2960 x 1440,5.8,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+159,SAMSUNG,Galaxy S10e,729.49, 116,64.0,4,2960 x 1440,5.8,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+160,SAMSUNG,Galaxy Note10+,879.0, 420,64.0,12,3040 x 1440,5.8,Midnight Black,Snapdragon 855,10.0,12.0
+161,SAMSUNG,Galaxy S10,779.99, 480,128.0,8,3040 x 1440,6.1,Prism White,Octa-core Snapdragon 855,10.0,16.0
+162,SAMSUNG,Galaxy Note9,534.0, 465,128.0,6,2960x1440,6.1,Prism White,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+163,SAMSUNG,Galaxy S9+,469.99, 480,64.0,6,samoled,6.2,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+164,SAMSUNG,Galaxy J3,144.99, 134,64.0,6,samoled,6.2,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+165,SAMSUNG,Galaxy Note,1349.99, 350,512.0,6,samoled,6.2,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+166,REFURBISHED,Samsung Rugby,180.0,no sale,512.0,6,samoled,6.2,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+167,SAMSUNG,Galaxy Note,109.98, 90,512.0,6,samoled,6.2,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+168,SAMSUNG,Galaxy A70,419.99, 30,512.0,6,samoled,6.2,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+169,SAMSUNG,Galaxy S8+,449.99,no sale,512.0,6,samoled,6.2,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+170,SAMSUNG,Galaxy A80,699.72, 200,128.0,8,1080x2400,6.7,Ghost White,Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver),8.0,56.0
+171,SAMSUNG,Galaxy J7,182.72, 117,32.0,2,1280 x 720,5.5,Black,1.6GHz Octa-Core,5.0,8.0
+172,SAMSUNG,Galaxy S10+,949.99, 170,128.0,8,3040 x 1440,6.4,Prism White,Samsung Exynos 9820,10.0,16.0
+173,SAMSUNG,Galaxy S10e,897.95,no sale,128.0,8,3040 x 1440,6.4,Prism White,Samsung Exynos 9820,10.0,16.0
+174,SAMSUNG,Galaxy A2,147.99, 32,128.0,8,3040 x 1440,6.4,Prism White,Samsung Exynos 9820,10.0,16.0
+175,SAMSUNG,Galaxy S10,690.0,no sale,128.0,8,3040 x 1440,6.1,Prism White,Octa-core Snapdragon 855,10.0,16.0
+176,NEW,Samsung XCOVER,199.99, 100,16.0,2,3040 x 1440,5.0,Gray,Octa-core Snapdragon 855,10.0,16.0
+178,SAMSUNG,Galaxy J2,119.89, 80,16.0,2,540 x 960,5.0,Gold,Quad-core 1.4 GHz Exynos 7570 processor,5.0,8.0
+179,SAMSUNG,A50 128GB,367.69, 132,128.0,4,1080 x 2340,6.4,Black,Octa-core (4x2.3 GHz Cortex-A73,1.08,25.0
+180,SAMSUNG,Galaxy S9,400.0,no sale,64.0,4,samoled,5.8,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+181,SAMSUNG,Galaxy A10S,205.0, 84,32.0,3,samoled,6.2,RED,Qualcomm MSM8998 Snapdragon 845,8.0,13.0
+182,SAMSUNG,Galaxy A51,379.99, 120,32.0,3,samoled,6.2,RED,Qualcomm MSM8998 Snapdragon 845,8.0,13.0
+183,SAMSUNG,GALAXY S7,179.98, 230,32.0,3,samoled,6.2,RED,Qualcomm MSM8998 Snapdragon 845,8.0,13.0
+184,SAMSUNG,Galaxy A50,369.72, 130,64.0,4,2340 x 1080,6.4,White,Exynos 9610,25.0,25.0
+185,SAMSUNG,Galaxy A20S,269.0, 56,32.0,3,2340 x 1080,6.5,Blue,Exynos 9610,25.0,25.0
+186,SAMSUNG,Galaxy S6,149.98, 130,32.0,3,2560 x 1440,6.5,Sapphire Black,1.5 GHz,5.0,16.0
+187,CERTIFIED,Refurbished Samsung,409.72, 190,64.0,4,1440 x 2960,5.8,Midnight Black,1.5 GHz,5.0,12.0
+188,SAMSUNG,Galaxy S9+,849.95,no sale,64.0,6,1440 x 2960,6.2,Midnight Black,1.5 GHz,5.0,12.0
+189,SAMSUNG,Galaxy Note,999.99,no sale,128.0,6,1440 x 2960,6.4,Ocean Blue,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA,8.0,12.0
+190,SAMSUNG,Galaxy A70,474.0,no sale,128.0,6,1440 x 2960,6.4,Ocean Blue,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA,32.0,32.0
+191,UNLOCKED,Samsung Galaxy,599.0, 100,64.0,6,default resolution is full hd+ and can be changed to,6.4,Midnight Black,10nm AP,8.0,12.0
+192,SAMSUNG,Galaxy Note9,535.88, 264,128.0,6,2960x1440,6.4,Lavender Purple,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+193,NEW,Open Box,229.99, 60,128.0,6,2960x1440,6.4,Lavender Purple,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+194,SAMSUNG,Galaxy A5,247.0, 3,32.0,3,1080 x 1920,5.2,Black,Octa-core 1.9 GHz Cortex-A53,16.0,16.0
+195,REFURBISHED,SAMSUNG A997,100.0,no sale,32.0,3,1080 x 1920,5.2,Black,Octa-core 1.9 GHz Cortex-A53,16.0,16.0
+196,UNLOCKED,Samsung Galaxy,419.0, 180,32.0,3,1080 x 1920,5.2,Orchid Gray,Octa-core 1.9 GHz Cortex-A53,16.0,16.0
+197,SAMSUNG,Galaxy J3,149.99, 140,32.0,3,1080 x 1920,5.2,Black,Octa-core 1.9 GHz Cortex-A53,16.0,16.0
+198,SAMSUNG,Galaxy S10e,799.0,no sale,128.0,6,2280 x 1080 full hd+,5.8,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+199,SAMSUNG,Galaxy J3,124.97, 124,16.0,1,2280 x 1080 full hd+,5.0,Black,Octa-core Snapdragon 855,10.0,16.0
+200,SAMSUNG,Galaxy Note,1029.99, 430,256.0,8,1080x2280,6.3,Aura Black,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55),10.0,40.0
+201,SAMSUNG,Galaxy S8+,327.0, 172,64.0,4,2960 x 1440,6.2,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+202,SAMSUNG,Galaxy Note,599.99, 600,64.0,6,2960 x 1440,6.3,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+203,SAMSUNG,Galaxy S8,339.99, 60,64.0,4,2960 x 1440,5.8,Orchid Gray,2.35GHz; 1.9GHz,8.0,12.0
+204,SAMSUNG,Galaxy S10+,899.0,no sale,128.0,8,3040 x 1440,6.4,Prism White,Octa-core Snapdragon 855,10.0,16.0
+205,SAMSUNG,Galaxy S10+,907.35, 39,512.0,8,3040 x 1440,6.4,Ceramic Black,Octa-core Snapdragon 855,10.0,16.0
+206,NEW-SAMSUNG,Galaxy J3,159.99, 230,8.0,2,3040 x 1440,5.0,Ceramic Black,Octa-core Snapdragon 855,10.0,16.0
+207,SAMSUNG,Galaxy M20,239.99, 60,32.0,3,1080x2340,6.3,Ocean Blue,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),10.0,18.0
+208,SAMSUNG,Galaxy S9+,420.0,no sale,64.0,6,samoled,6.2,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+209,SAMSUNG,Galaxy S9,489.0, 110,64.0,4,samoled,5.8,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+210,SAMSUNG,Galaxy A8,399.0,no sale,64.0,4,2220 x 1080,5.8,Black,Exynos 7885 2.2GHz 1.6GHz,16.0,16.0
+211,SAMSUNG,Galaxy Note,379.99, 120,64.0,6,2220 x 1080,6.3,Black,Exynos 7885 2.2GHz 1.6GHz,16.0,16.0
+212,SAMSUNG,Galaxy S10+,1599.95, 280,1000.0,12,3040 x 1440,6.4,Ceramic Black,Octa-core Snapdragon 855,10.0,16.0
+213,SAMSUNG,GALAXY S7,199.99, 200,32.0,12,3040 x 1440,6.4,Ceramic Black,Octa-core Snapdragon 855,10.0,16.0
+214,SAMSUNG,Galaxy S7,166.0, 133,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Silver Titanium,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+215,SAMSUNG,Galaxy Note,173.65, 87,32.0,3,1440 x 2560,5.7,Black,Quad-core 2.7 GHz Krait 450 - Snapdragon 805 Octa-core (4x1.3 GHz Cortex-A53 & 4x1.9 GHz Cortex-A57) - Exynos 5433,3.7,16.0
+216,SAMSUNG,Galaxy A50,389.99, 110,32.0,3,1440 x 2560,5.7,Black,Quad-core 2.7 GHz Krait 450 - Snapdragon 805 Octa-core (4x1.3 GHz Cortex-A53 & 4x1.9 GHz Cortex-A57) - Exynos 5433,3.7,16.0
+217,SAMSUNG,Galaxy Note9,534.0, 241,128.0,6,2960x1440,6.4,Ocean Blue,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+218,SAMSUNG,Galaxy S5,119.99, 70,128.0,6,2960x1440,6.4,Ocean Blue,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+219,SAMSUNG,Galaxy A30,289.0,no sale,32.0,3,1080x2340,6.4,Black,Octa-core (2x1.8 GHz Cortex-A73&nbsp;,16.0,16.0
+220,SAMSUNG,Galaxy Note,249.99,no sale,32.0,4,1440 x 2560,5.7,Black Sapphire,Octa-core (2x1.8 GHz Cortex-A73&nbsp;,5.0,16.0
+221,SAMSUNG,Galaxy S9,397.72, 152,64.0,4,1440 x 2960,5.8,Blue,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA,5.0,12.0
+222,SAMSUNG,Galaxy A10,185.0, 65,32.0,2,1440 x 2960,6.1,Blue,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA,5.0,13.0
+223,SAMSUNG,Galaxy Note,1399.99, 200,512.0,2,1440 x 2960,6.1,Blue,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA,5.0,13.0
+224,SAMSUNG,Galaxy S8,370.0,no sale,512.0,4,2960 x 1440,5.8,Orchid Gray,1.9GHz,8.0,12.0
+225,SAMSUNG,Galaxy S10e,899.99,no sale,128.0,6,2280 x 1080 full hd+,5.8,Orchid Gray,Octa-core Snapdragon 855,10.0,16.0
+226,SAMSUNG,Galaxy Note10,799.99, 200,128.0,6,2280 x 1080 full hd+,5.8,Orchid Gray,Octa-core Snapdragon 855,10.0,16.0
+227,SAMSUNG,GALAXY S6,143.68,no sale,32.0,6,2280 x 1080 full hd+,5.1,Orchid Gray,Octa-core Snapdragon 855,10.0,16.0
+228,SAMSUNG,Galaxy A30,319.0,no sale,32.0,3,1080 x 2340  19.5:9 ratio,6.4,black,Octa-core Snapdragon 855,16.0,16.0
+229,SAMSUNG,Galaxy S8+,388.0, 111,32.0,4,1080 x 2340  19.5:9 ratio,6.2,black,Octa-core Snapdragon 855,16.0,16.0
+230,SAMSUNG,Galaxy A5,189.0, 29,32.0,4,1080 x 2340  19.5:9 ratio,6.2,black,Octa-core Snapdragon 855,16.0,16.0
+231,SAMSUNG,Galaxy S9,380.0,no sale,64.0,4,samoled,5.8,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+232,SAMSUNG,Galaxy J3,128.9, 271,16.0,2,samoled,5.0,Black,4 cores Exynos 7570 Quad,5.0,8.0
+233,SAMSUNG,Galaxy Note9,539.99, 160,128.0,6,2960x1440,6.4,Midnight Black,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+234,SAMSUNG,Galaxy S8,349.0, 150,64.0,4,1440 x 2960,5.8,Black,4x2.3 GHz,8.0,12.0
+235,SAMSUNG,Galaxy A30s,299.25, 200,64.0,4,720 x 1560,6.4,violet,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),16.0,40.0
+236,SAMSUNG,Galaxy S9,379.0, 220,64.0,4,samoled,5.8,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+237,SAMSUNG,Galaxy Note9,546.99, 453,128.0,6,2960x1440,6.4,Lavender Purple,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+238,SAMSUNG,Galaxy A80,699.99, 200,128.0,8,1080 x 2400,6.7,Angel Gold,1.8,8.0,48.0
+239,SAMSUNG,Galaxy S6,164.49, 85,32.0,3,2560 x 1440,5.1,White Pearl,Exynos 7420 (64-bit 14nm) Octa core (2.1GHz Quad + 1.5GHz Quad),5.0,16.0
+240,SAMSUNG,Galaxy A70,599.99,no sale,32.0,3,2560 x 1440,5.1,White Pearl,Exynos 7420 (64-bit 14nm) Octa core (2.1GHz Quad + 1.5GHz Quad),5.0,16.0
+241,SAMSUNG,Samsung Galaxy,194.99, 54,32.0,3,2560 x 1440,5.1,White Pearl,Exynos 7420 (64-bit 14nm) Octa core (2.1GHz Quad + 1.5GHz Quad),5.0,16.0
+242,SAMSUNG,Galaxy J3,179.72, 50,32.0,3,2560 x 1440,5.1,White Pearl,Exynos 7420 (64-bit 14nm) Octa core (2.1GHz Quad + 1.5GHz Quad),5.0,16.0
+243,SAMSUNG,S8 PLUS,399.99, 200,32.0,3,2560 x 1440,5.1,White Pearl,Exynos 7420 (64-bit 14nm) Octa core (2.1GHz Quad + 1.5GHz Quad),5.0,16.0
+244,SAMSUNG,A50 128GB,359.72, 130,128.0,4,1080 x 2340,6.4,White,Octa-core (4x2.3 GHz Cortex-A73,1.08,25.0
+245,SAMSUNG,Galaxy A8,449.99,no sale,32.0,4,2220 x 1080,5.6,Orchid Grey,Exynos 7885 2.2GHz 1.6GHz,16.0,16.0
+246,SAMSUNG,Galaxy J7,149.99, 50,32.0,4,2220 x 1080,5.6,Orchid Grey,Exynos 7885 2.2GHz 1.6GHz,16.0,16.0
+247,SAMSUNG,Galaxy Note,1049.99, 299,32.0,4,2220 x 1080,5.6,Orchid Grey,Exynos 7885 2.2GHz 1.6GHz,16.0,16.0
+248,UNLOCKED,Samsung Galaxy,249.99,no sale,32.0,4,1080 x 1920,5.2,Blue,1.8 GHz Octa Core,16.0,16.0
+249,SAMSUNG,Galaxy A10,199.99,no sale,32.0,2,720 x 1520  19:9 ratio,6.2,Black,Octa-core (2x1.6 GHz Cortex-A73 & 6x1.35 GHz Cortex-A53),16.0,13.0
+250,SAMSUNG,Galaxy A30,299.99,no sale,32.0,3,1080 x 2340,6.4,Black,Octa-core (2x1.6 GHz Cortex-A73 & 6x1.35 GHz Cortex-A53),16.0,13.0
+251,SAMSUNG,GALAXY J1,89.99,no sale,32.0,3,1080 x 2340,6.4,Black,Octa-core (2x1.6 GHz Cortex-A73 & 6x1.35 GHz Cortex-A53),16.0,13.0
+252,SAMSUNG,Galaxy A5,229.99, 60,32.0,3,1080 x 2340,6.4,Black,Octa-core (2x1.6 GHz Cortex-A73 & 6x1.35 GHz Cortex-A53),16.0,13.0
+253,SAMSUNG,Galaxy S10+,899.0,no sale,128.0,8,3040 x 1440,6.4,Prism Blue,Octa-core Snapdragon 855,10.0,16.0
+254,SAMSUNG,Galaxy A10,185.72, 94,128.0,2,720 x 1520,6.2,Blue,Octa-core Snapdragon 855,5.0,13.0
+255,SAMSUNG,Galaxy S10+,999.99, 300,128.0,8,3040 x 1440,6.4,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+256,SAMSUNG,Galaxy S9+,429.84, 370,128.0,6,2960 x 1440,6.4,Lilac Purple,2.8 GHz Qualcomm Kryo 385 Gold Quad-Core1.7 GHz Qualcomm Kryo 385 Silver Quad-Core1.7 GHz Qualcomm Kryo 385 Silver Quad-Core,8.0,12.0
+257,UNLOCKED,Samsung Galaxy,1199.99,no sale,64.0,6,default resolution is full hd+ and can be changed to,6.3,Deep Sea Blue,10nm AP,8.0,12.0
+258,SAMSUNG,Galaxy Note10,799.99, 200,64.0,6,default resolution is full hd+ and can be changed to,6.3,Deep Sea Blue,10nm AP,8.0,12.0
+259,SAMSUNG,Galaxy Note,399.84, 300,64.0,6,2960 x 1440,6.3,Orchid Gray,2.35 GHz Qualcomm Kryo Quad-Core1.9 GHz Qualcomm Kryo Quad-Core,8.0,12.0
+260,SAMSUNG,Galaxy Note,396.0,no sale,64.0,6,2960 x 1440,6.3,Midnight Black,2.35 GHz Qualcomm Kryo Quad-Core1.9 GHz Qualcomm Kryo Quad-Core,8.0,12.0
+261,SAMSUNG,Galaxy S10e,729.99, 269,128.0,6,1080 x 2280,5.8,Prism Black,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA/LATAM,10.0,12.0
+262,SAMSUNG,Galaxy Note10+,1199.0,no sale,256.0,12,3040 x 1440,6.8,Aura Glow,Snapdragon 855,10.0,12.0
+263,SAMSUNG,GALAXY G900W8,112.5, 187,256.0,12,3040 x 1440,6.8,Aura Glow,Snapdragon 855,10.0,12.0
+264,SAMSUNG,Galaxy A5,346.0,no sale,256.0,12,3040 x 1440,6.8,Aura Glow,Snapdragon 855,10.0,12.0
+265,SAMSUNG,X COVER,149.0, 100,16.0,2,3040 x 1440,5.0,Black,Snapdragon 855,10.0,12.0
+266,SAMSUNG,Galaxy S10e,559.0,no sale,128.0,6,2280 x 1080 full hd+,5.8,Prism White,Octa-core Snapdragon 855,10.0,16.0
+267,SAMSUNG,Galaxy Note,389.99, 210,128.0,6,2280 x 1080 full hd+,5.8,Prism White,Octa-core Snapdragon 855,10.0,16.0
+268,SAMSUNG,Galaxy Note,399.84, 300,128.0,6,2960 x 1440,5.8,Midnight Black,2.35 GHz Qualcomm Kryo Quad-Core1.9 GHz Qualcomm Kryo Quad-Core,8.0,12.0
+269,SAMSUNG,Galaxy J2,129.0, 20,16.0,2,2960 x 1440,5.0,Midnight Black,Quad-core 1.4 GHz Cortex-A53,8.0,12.0
+270,SAMSUNG,Galaxy S8+,532.45, 428,64.0,4,2960 x 1440,6.2,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+271,SAMSUNG,J3 Prime,129.72, 70,64.0,4,2960 x 1440,6.2,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+273,SAMSUNG,Galaxy S10,699.99, 179,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+274,SAMSUNG,Galaxy J3,144.0, 106,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+275,SAMSUNG,Galaxy J6,299.99,no sale,64.0,4,720 x 1480,6.0,Black,1.4 GHz,8.0,13.0
+276,NEW,Samsung Galaxy,289.0, 206,32.0,4,2560 x 1440,5.5,Black,1.6GHz,5.0,12.0
+277,SAMSUNG,Galaxy S8,299.99, 140,64.0,4,2960 x 1440,5.8,Orchid Gray,2.35GHz; 1.9GHz,8.0,12.0
+278,SAMSUNG,Galaxy&nbsp;Note&nbsp;10+ Dual,1499.99,no sale,512.0,4,2960 x 1440,5.8,Orchid Gray,2.35GHz; 1.9GHz,8.0,12.0
+279,SAMSUNG,Galaxy A10,194.49, 56,32.0,4,720x1520,6.2,Red,2.35GHz; 1.9GHz,5.0,13.0
+280,SAMSUNG,Galaxy S10,899.99, 360,32.0,4,720x1520,6.2,Red,2.35GHz; 1.9GHz,5.0,13.0
+281,SAMSUNG,GALAXY S8,328.0, 171,32.0,4,720x1520,6.2,Red,2.35GHz; 1.9GHz,5.0,13.0
+282,SAMSUNG,Galaxy A50,299.99, 100,32.0,4,720x1520,6.2,Red,2.35GHz; 1.9GHz,5.0,13.0
+283,SAMSUNG,GALAXY A51,449.0, 46,32.0,4,720x1520,6.2,Red,2.35GHz; 1.9GHz,5.0,13.0
+284,SAMSUNG,Galaxy S8+,336.0, 223,64.0,4,2960 x 1440,6.2,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+285,SAMSUNG,Galaxy S10,690.0,no sale,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+286,SAMSUNG,Galaxy S10,869.97, 19,128.0,8,3040 x 1440,6.1,Prism White,Samsung Exynos 9820,10.0,16.0
+287,SAMSUNG,Galaxy S7,165.0,no sale,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+288,SAMSUNG,Galaxy S8,489.99, 310,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+289,SAMSUNG,Galaxy S10,689.0, 310,128.0,8,3040 x 1440,6.1,Prism White,Octa-core Snapdragon 855,10.0,16.0
+290,SAMSUNG,Galaxy S10+,709.99, 90,128.0,8,3040 x 1440,6.1,Prism White,Octa-core Snapdragon 855,10.0,16.0
+291,SAMSUNG,Galaxy M20,239.99, 59,32.0,4,3040 x 1440,6.3,Charcoal Black,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),10.0,16.0
+292,SAMSUNG,Galaxy S7,199.99, 250,32.0,4,3040 x 1440,5.1,Charcoal Black,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),10.0,16.0
+294,SAMSUNG,Galaxy S8,598.0, 379,64.0,4,1440 x 2960,5.8,Black,Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53) - EMEA,5.0,12.0
+295,SAMSUNG,Galaxy S9+,419.0, 180,64.0,6,samoled,6.2,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+296,SAMSUNG,Galaxy A01,189.99, 40,64.0,6,samoled,6.2,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+297,SAMSUNG,Galaxy A10,229.99, 70,32.0,2,720 x 1520  19:9 ratio,6.2,Blue,Octa-core (2x1.6 GHz Cortex-A73 & 6x1.35 GHz Cortex-A53),8.0,13.0
+298,SAMSUNG,Galaxy S8,399.99,no sale,64.0,4,2960 x 1440,5.8,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+299,SAMSUNG,Galaxy S6,152.08, 78,32.0,3,1440 x 2560,5.1,Gold,Processor Number 7420Processor Core Qty 8-core64-bit Architecture.,8.0,16.0
+300,SAMSUNG,Galaxy S9+,749.99, 100,64.0,6,1440 x 2560,6.2,Gold,Processor Number 7420Processor Core Qty 8-core64-bit Architecture.,8.0,16.0
+301,SAMSUNG,Galaxy S8,349.0, 150,64.0,4,1440 x 2560,5.8,Gold,Processor Number 7420Processor Core Qty 8-core64-bit Architecture.,8.0,16.0
+302,SAMSUNG,Galaxy S9,399.0, 200,64.0,4,samoled,5.8,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+303,SAMSUNG,Galaxy Note9,599.0, 200,128.0,6,2960x1440,6.4,Ocean Blue,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+304,SAMSUNG,Galaxy A01,189.99, 40,128.0,6,2960x1440,6.4,Ocean Blue,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+305,SAMSUNG,Galaxy M30/,399.0,no sale,64.0,4,2960x1440,6.4,Black,1.8 GHz,16.0,13.0
+306,SAMSUNG,Galaxy S8,370.0,no sale,64.0,4,2960 x 1440,5.8,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+307,SAMSUNG,Galaxy J3,149.99, 200,16.0,4,2960 x 1440,5.8,Black,2.35GHz; 1.9GHz,8.0,12.0
+308,SAMSUNG,Galaxy Note9,589.99, 169,128.0,6,2960x1440,6.4,Midnight Black,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+309,SAMSUNG,Galaxy S7,219.0, 110,32.0,4,2960x1440,6.4,Midnight Black,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+310,SAMSUNG,Galaxy S9+,519.99, 180,64.0,6,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+311,SAMSUNG,Galaxy S8+,449.98, 50,64.0,6,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+312,SAMSUNG,Galaxy S7,248.0, 151,32.0,6,samoled,6.2,Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+313,SAMSUNG,Galaxy S10e,759.91, 110,128.0,6,2280 x 1080 full hd+,5.8,Prism White,Octa-core Snapdragon 855,10.0,16.0
+314,SAMSUNG,A10s 32GB,197.99, 82,128.0,6,2280 x 1080 full hd+,5.8,Prism White,Octa-core Snapdragon 855,10.0,16.0
+315,SAMSUNG,Galaxy S5,149.0, 50,16.0,2,1920 x 1080,5.1,Black,1.6,5.0,16.0
+316,SAMSUNG,Galaxy S10+,859.43, 241,16.0,2,3040 x 1440,5.1,Prism White,2.73 GHz Mongoose 4 Dual-Core2.31 GHz Cortex A75 Dual-Core1.95 GHz Cortex A55 Quad-Core,10.0,16.0
+317,SAMSUNG,Galaxy S10e,619.69, 280,128.0,6,2280 x 1080 full hd+,5.8,Prism White,Octa-core Snapdragon 855,10.0,16.0
+318,SAMSUNG,Galaxy Note,899.95, 400,128.0,6,2280 x 1080 full hd+,5.8,Prism White,Octa-core Snapdragon 855,10.0,16.0
+319,SAMSUNG,Galaxy S8,339.0, 160,64.0,4,2960 x 1440,5.8,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+320,SAMSUNG,Galaxy A10,199.99, 100,32.0,2,720 x 1520  19:9 ratio,6.2,Blue,Octa-core (2x1.6 GHz & 6x1.35 GHz),5.0,13.0
+321,SAMSUNG,Galaxy S10+,999.99,no sale,128.0,8,3040 x 1440,6.4,Prism Green,Octa-core Snapdragon 855,10.0,16.0
+322,SAMSUNG,GALAXY S8,308.0, 191,128.0,8,3040 x 1440,6.4,Prism Green,Octa-core Snapdragon 855,10.0,16.0
+323,SAMSUNG,Galaxy J7,199.99,no sale,32.0,2,720x1280,5.5,Black,&nbsp;1.6 GHz&nbsp;,13.0,13.0
+324,SAMSUNG,Galaxy Note9,789.99,no sale,32.0,2,720x1280,5.5,Black,&nbsp;1.6 GHz&nbsp;,13.0,13.0
+325,SAMSUNG,Galaxy Note10,1149.97, 300,256.0,8,2280 x 1080,6.3,Aura Black,Snapdragon 855,10.0,48.0
+326,SAMSUNG,Galaxy Note9,584.0, 215,256.0,6,2960x1440,6.3,Aura Black,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+327,SAMSUNG,Galaxy Note,227.98, 71,32.0,3,1440 x 2560  16:9 ratio,5.7,Black,Quad-core 2.5 GHz Krait 450,16.0,16.0
+328,SAMSUNG,Galaxy J3,146.0, 104,32.0,1.5,1280 x 720,5.0,Black,Quad-core 2.5 GHz Krait 450,16.0,16.0
+329,SAMSUNG,Galaxy J1,129.99, 50,8.0,512 MB,1280 x 720,4.3,Black,Quad-core 2.5 GHz Krait 450,16.0,16.0
+330,SAMSUNG,Galaxy S8,609.99, 190,64.0,4,1280 x 720,5.8,Black,Quad-core 2.5 GHz Krait 450,16.0,16.0
+331,SAMSUNG,S7 EDGE,349.0,no sale,64.0,4,1280 x 720,5.8,Black,Quad-core 2.5 GHz Krait 450,16.0,16.0
+332,SAMSUNG,Galaxy Note,279.98, 120,32.0,4,1280 x 720,5.8,black/Blue,Quad-core 2.5 GHz Krait 450,16.0,16.0
+333,SAMSUNG,Galaxy J8,399.0,no sale,64.0,4,1280 x 720,5.8,Black,Quad-core 2.5 GHz Krait 450,16.0,16.0
+334,SAMSUNG,Galaxy S6,275.0,no sale,32.0,4,1280 x 720,5.8,black/Blue,Quad-core 2.5 GHz Krait 450,16.0,16.0
+335,SAMSUNG,Galaxy S7,399.0,no sale,32.0,4,1280 x 720,5.8,Black,Quad-core 2.5 GHz Krait 450,16.0,16.0
+336,SAMSUNG,Galaxy A8,379.99,no sale,32.0,4,1280 x 720,5.6,Black,Quad-core 2.5 GHz Krait 450,16.0,16.0
+337,SAMSUNG,Galaxy Note,229.99, 70,64.0,4,2560 x 1440,5.7,Gold,1.5 GHz (Quad-Core),16.0,16.0
+338,SAMSUNG,Galaxy S7,399.0,no sale,32.0,4,2560 x 1440,5.5,Gold,1.5 GHz (Quad-Core),16.0,16.0
+339,SAMSUNG,Galaxy A5,250.0,no sale,32.0,3,1080 x 1920,5.5,Black,EXYNOS7880 1.9 GHz,16.0,16.0
+340,SAMSUNG,Galaxy S7,329.0,no sale,32.0,4,1080 x 1920,5.5,Black,EXYNOS7880 1.9 GHz,16.0,16.0
+341,SAMSUNG,Galaxy S6,239.0, 40,32.0,3,1080 x 1920,5.5,Black,EXYNOS7880 1.9 GHz,16.0,16.0
+342,SAMSUNG,Galaxy NOTE,500.0,no sale,64.0,6,1080 x 1920,6.3,Black,EXYNOS7880 1.9 GHz,16.0,16.0
+343,SAMSUNG,Galaxy S6,179.0, 80,32.0,3,1080 x 1920,6.3,Black,EXYNOS7880 1.9 GHz,16.0,16.0
+344,SAMSUNG,Galaxy S7,269.0, 60,32.0,4,1080 x 1920,6.3,Black,EXYNOS7880 1.9 GHz,16.0,16.0
+345,SAMSUNG,Galaxy J4,259.0,no sale,32.0,3,720 x 1480,6.0,black,Octa-core Snapdragon 855,5.0,5.0
+346,SAMSUNG,Galaxy S8,559.99, 400,32.0,3,720 x 1480,6.0,black,Octa-core Snapdragon 855,5.0,5.0
+347,SAMSUNG,A8 (2018),259.99,no sale,32.0,4,720 x 1480,5.6,black,Octa-core Snapdragon 855,5.0,5.0
+348,SAMSUNG,Galaxy S8,425.0, 55,64.0,4,1440 x 2960,5.8,Midnight Black,Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo),8.0,12.0
+349,SAMSUNG,Galaxy S6,259.0,no sale,32.0,3,1440 x 2960,5.8,Midnight Black,Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo),8.0,12.0
+350,SAMSUNG,Galaxy S7,349.0,no sale,32.0,3,1440 x 2960,5.8,black,Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo),8.0,12.0
+352,UNLOCKED,Samsung Galaxy,710.0,no sale,64.0,6,default resolution is full hd+ and can be changed to,6.0,Deep Sea Blue,10nm AP,8.0,12.0
+353,SAMSUNG,Galaxy S6,239.0, 40,32.0,3,default resolution is full hd+ and can be changed to,6.0,Deep Sea Blue,10nm AP,8.0,12.0
+354,SAMSUNG,Galaxy S7,219.0, 110,32.0,4,default resolution is full hd+ and can be changed to,6.0,Deep Sea Blue,10nm AP,8.0,12.0
+355,SAMSUNG,Galaxy ON5,175.0,no sale,8.0,4,default resolution is full hd+ and can be changed to,6.0,black,10nm AP,8.0,12.0
+356,SAMSUNG,Galaxy A5(2017),149.98, 150,32.0,4,default resolution is full hd+ and can be changed to,6.0,black,10nm AP,8.0,12.0
+357,SAMSUNG,Galaxy J3,139.72,no sale,16.0,4,default resolution is full hd+ and can be changed to,6.0,Black,10nm AP,8.0,12.0
+358,SAMSUNG,Galaxy J1,110.0,no sale,4.0,4,default resolution is full hd+ and can be changed to,6.0,Black,10nm AP,8.0,12.0
+359,SAMSUNG,Galaxy J3,149.0, 31,16.0,2,default resolution is full hd+ and can be changed to,5.0,Black,10nm AP,8.0,12.0
+360,SAMSUNG,Galaxy S8,499.0,no sale,64.0,4,default resolution is full hd+ and can be changed to,5.8,Black,10nm AP,8.0,12.0
+361,SAMSUNG,Galaxy Amp,299.0,no sale,8.0,1,480 x 800,4.5,Black,Quad-core 1.3 GHz Cortex-A53,2.0,5.0
+362,SAMSUNG,Galaxy Note8,729.99, 570,8.0,1,480 x 800,4.5,Black,Quad-core 1.3 GHz Cortex-A53,2.0,5.0
+363,SAMSUNG,Galaxy S8,559.99, 400,8.0,1,480 x 800,4.5,Black,Quad-core 1.3 GHz Cortex-A53,2.0,5.0
+364,SAMSUNG,Galaxy S4,179.0,no sale,8.0,2,1920 x 1080,5.0,Black Mist,1.9GHz,2.0,13.0
+365,SAMSUNG,Galaxy S6,249.0,no sale,32.0,3,1440 x 2560,5.1,White,Processor Number 7420Processor Core Qty 8-core64-bit Architecture.,2.0,16.0
+366,SAMSUNG,Galaxy S6,279.98,no sale,64.0,3,1440 x 2560,5.1,Black,Processor Number 7420Processor Core Qty 8-core64-bit Architecture.,2.0,16.0
+367,SAMSUNG,Galaxy S9+,699.0,no sale,64.0,6,1440 x 2960,6.2,Purple,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA,2.0,12.0
+368,SAMSUNG,Galaxy J4,259.0,no sale,16.0,6,1440 x 2960,6.2,Black,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA,2.0,12.0
+369,SAMSUNG,Galaxy S6,219.99, 45,32.0,3,2560 x 1440,6.2,Gold,2.1GHz 1.5GHz,5.0,16.0
+370,SAMSUNG,Galaxy A8,289.99, 60,32.0,3,2220 x 1080,5.6,Black Sky,2.2GHz,16.0,16.0
+371,SAMSUNG,Galaxy A50,359.99,no sale,64.0,3,1080 x 2340,6.4,Blue,Octa-core (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53),8.0,32.0
+372,SAMSUNG,Galaxy S10,1589.99,no sale,512.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+374,SAMSUNG,Galaxy S7,249.99,no sale,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Gold Platinum,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+375,SAMSUNG,Galaxy S8+,449.99,no sale,64.0,4,2960 x 1440,6.2,Orchid Gray,2.35GHz; 1.9GHz,8.0,12.0
+376,SAMSUNG,Galaxy S8,429.0,no sale,64.0,4,2960 x 1440,5.8,Tungsten Gold,Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo),8.0,12.0
+377,SAMSUNG,Galaxy J2,149.99,no sale,64.0,4,2960 x 1440,5.8,Tungsten Gold,Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo),8.0,12.0
+379,SAMSUNG,Galaxy S10,875.99, 134,128.0,8,3040 x 1440,6.1,Prism Blue,Octa-core Snapdragon 855,10.0,16.0
+381,SAMSUNG,Galaxy&nbsp;Note&nbsp;10&nbsp;Dual Sim,1179.99,no sale,256.0,4,samoled,5.8,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+382,SAMSUNG,Galaxy A8,299.99, 100,32.0,4,2220 x 1080,5.6,Orchid Grey,Exynos 7885 2.2GHz 1.6GHz,8.0,16.0
+383,SAMSUNG,Galaxy Note10,1199.99,no sale,256.0,8,2280 x 1080,6.3,Aura Glow,Snapdragon 855,10.0,48.0
+384,SAMSUNG,Galaxy S6,230.0,no sale,32.0,3,1440 x 2560,5.1,White,Processor Number 7420Processor Core Qty 8-core64-bit Architecture.,10.0,16.0
+385,SAMSUNG,Galaxy S7,349.98,no sale,32.0,4,2560 x 1440,5.1,Silver Titanium,1.6GHz,5.0,12.0
+386,SAMSUNG,Galaxy S9+,595.0, 104,64.0,6,1440 x 2960,6.2,Blue,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA,5.0,12.0
+387,SAMSUNG,Galaxy S8,429.0,no sale,64.0,4,2960 x 1440,5.8,Meteor Gray,Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo),8.0,12.0
+388,SAMSUNG,Galaxy S7,349.99, 150,32.0,4,1440 x 2560  dual edge quad hd super amoled,5.5,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+390,SAMSUNG,Galaxy S7,329.99, 20,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+391,SAMSUNG,GALAXY A7,449.99,no sale,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+392,SAMSUNG,GALAXY A8S,649.99,no sale,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+393,SAMSUNG,Galaxy A20,289.0,no sale,32.0,2,20 x 1520  19:9 ratio,6.2,black,Octa-core (2x1.6 GHz Cortex-A73 & 6x1.35 GHz Cortex-A53),5.0,13.0
+394,SAMSUNG,Galaxy A10,199.99, 100,32.0,2,20 x 1520  19:9 ratio,6.2,black,Octa-core (2x1.6 GHz Cortex-A73 & 6x1.35 GHz Cortex-A53),5.0,13.0
+395,SAMSUNG,NOTE 5,262.99, 177,32.0,2,20 x 1520  19:9 ratio,6.2,black,Octa-core (2x1.6 GHz Cortex-A73 & 6x1.35 GHz Cortex-A53),5.0,13.0
+396,SAMSUNG,Galaxy&nbsp;Note&nbsp;10+ Dual,1149.99, 350,256.0,2,20 x 1520  19:9 ratio,6.2,black,Octa-core (2x1.6 GHz Cortex-A73 & 6x1.35 GHz Cortex-A53),5.0,13.0
+397,SAMSUNG,GALAXY S6,249.99,no sale,256.0,2,20 x 1520  19:9 ratio,6.2,black,Octa-core (2x1.6 GHz Cortex-A73 & 6x1.35 GHz Cortex-A53),5.0,13.0
+398,SAMSUNG,Galaxy Note,1249.99,no sale,256.0,12,1440 x 3040,6.8,Aura White,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) - EMEA/LATAM,10.0,12.0
+399,SAMSUNG,Galaxy Note,1239.99,no sale,256.0,12,1440 x 3040,6.8,Aura White,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) - EMEA/LATAM,10.0,12.0
+400,SAMSUNG,Galaxy A30,299.99, 50,64.0,4,1080x2340,6.4,Blue,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),10.0,21.0
+401,SAMSUNG,Galaxy J4,210.0,no sale,16.0,4,1080x2340,6.4,Black,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),10.0,21.0
+402,SAMSUNG,Galaxy S7,399.0,no sale,32.0,4,1080x2340,5.5,Black,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),10.0,21.0
+403,SAMSUNG,Galaxy S6,239.0, 40,32.0,3,1080x2340,5.5,Black,Octa-core (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),10.0,21.0
+404,SAMSUNG,Galaxy S9+,588.0, 111,64.0,6,1440 x 2960,6.2,Purple,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA,10.0,12.0
+405,SAMSUNG,Galaxy J3/,149.72, 70,64.0,6,1440 x 2960,6.2,Purple,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA,10.0,12.0
+406,SAMSUNG,Samsung Galaxy,198.72, 81,64.0,6,1440 x 2960,6.2,Purple,Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEA,10.0,12.0
+407,SAMSUNG,Galaxy S9,611.99, 248,64.0,4,samoled,5.8,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+408,SAMSUNG,Galaxy J3,159.99, 110,16.0,1.5,1280 x 720,5.0,Titanium Grey,1.4 GHz Quad-Core,2.0,5.0
+409,SAMSUNG,Galaxy A50,469.0, 130,16.0,1.5,1280 x 720,5.0,Titanium Grey,1.4 GHz Quad-Core,2.0,5.0
+410,SAMSUNG,Galaxy S7,229.99, 155,32.0,4,1440 x 2560  dual edge quad hd super amoled,5.5,Black Pearl,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+411,OPEN,Box Unlocked,750.0,no sale,32.0,4,1440 x 2560  dual edge quad hd super amoled,6.3,Black Pearl,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+412,SAMSUNG,Galaxy Note,1179.99,no sale,256.0,4,1440 x 2560  dual edge quad hd super amoled,6.3,Black Pearl,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+413,SAMSUNG,S5 16GB,159.0,no sale,256.0,4,1440 x 2560  dual edge quad hd super amoled,6.3,Black Pearl,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+414,SAMSUNG,Galaxy S9,599.0,no sale,64.0,4,samoled,5.8,Coral Blue,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+415,SAMSUNG,Galaxy A8,229.9, 170,32.0,4,2220 x 1080,5.8,Orchid Grey,Exynos 7885 2.2GHz 1.6GHz,16.0,16.0
+417,SAMSUNG,Galaxy S6,328.0,no sale,64.0,4,2960 x 1440,5.7,Black Sapphire,Octa-core,8.0,16.0
+418,SAMSUNG,Galaxy A50,379.72, 120,64.0,4,2960 x 1440,5.7,Black Sapphire,Octa-core,8.0,16.0
+419,SAMSUNG,Galaxy J7,199.72, 100,32.0,2,2960 x 1440,5.5,Black Sapphire,1.6ghz,13.0,13.0
+420,SAMSUNG,Galaxy A50,367.72, 122,32.0,2,2960 x 1440,5.5,Black Sapphire,1.6ghz,13.0,13.0
+421,SAMSUNG,Galaxy Note9,999.0,no sale,128.0,6,2960x1440,6.4,Midnight Black,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+422,NEW-SAMSUNG,Galaxy J3,179.0, 6,16.0,2,2960x1440,5.0,Black,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+424,SAMSUNG,Galaxy S9+,698.99, 251,128.0,6,samoled,6.1,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+425,SAMSUNG,Galaxy S10e,875.99, 124,128.0,6,2280 x 1080 full hd+,5.8,Canary Yellow,Octa-core Snapdragon 855,10.0,16.0
+426,SAMSUNG,Galaxy Note,1239.96, 240,256.0,8,1080x2280,6.3,Aura Pink,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55),10.0,40.0
+427,SAMSUNG,Galaxy S10,854.99, 405,128.0,8,3040 x 1440,6.1,Prism Blue,Octa-core Snapdragon 855,10.0,16.0
+428,SAMSUNG,Galaxy S9,759.99, 90,64.0,4,3040 x 1440,5.8,LILAC PURPLE,Octa-core Snapdragon 855,10.0,16.0
+430,SAMSUNG,Note 4,289.0,no sale,32.0,3,1440 x 2560  16:9 ratio,5.7,White Pearl,Quad-core 2.5 GHz Krait 450,16.0,16.0
+431,UNLOCKED,Samsung Galaxy,199.99, 90,32.0,3,1440 x 2560  16:9 ratio,5.7,Black Sapphire,Quad-core 2.5 GHz Krait 450,16.0,16.0
+432,SAMSUNG,Galaxy S6,220.0, 70,32.0,3,1440 x 2560  16:9 ratio,5.7,Black Sapphire,Quad-core 2.5 GHz Krait 450,16.0,16.0
+433,SAMSUNG,Galaxy A10S,299.0,no sale,32.0,2,13mp,6.2,BLUE,Octa-core 2.0 GHz Cortex-A53,8.0,13.0
+434,NEW,Open box-Samsung,729.0, 461,64.0,6,13mp,6.3,Deepsea Blue,Octa-core 2.0 GHz Cortex-A53,8.0,13.0
+435,SAMSUNG,Galaxy S6,199.99, 90,64.0,6,13mp,6.3,Deepsea Blue,Octa-core 2.0 GHz Cortex-A53,8.0,13.0
+436,SAMSUNG,Galaxy J3,149.72, 20,64.0,6,1280 x 720,6.3,Deepsea Blue,Octa-core 2.0 GHz Cortex-A53,8.0,13.0
+437,SAMSUNG,Galaxy J7,189.0,no sale,0.16,1.5,1280 x 720,5.5,Black,Octa-core 2.0 GHz Cortex-A53,5.0,13.0
+438,SAMSUNG,Galaxy S7,289.99,no sale,32.0,3/4 Gb Ram,1280 x 720,5.5,PRISM BLACK,Octa-core 2.0 GHz Cortex-A53,12.0,13.0
+439,SAMSUNG,Galaxy J3,149.72, 20,32.0,1.5,1280 x 720,5.0,PRISM BLACK,Octa-core 2.0 GHz Cortex-A53,2.0,5.0
+440,SAMSUNG,Galaxy Note9,598.49, 402,128.0,6,2960x1440,6.4,Ocean Blue,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+442,SAMSUNG,Galaxy A8,259.0, 19,32.0,4,1080 x 2220,5.6,Black,Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53),16.0,16.0
+443,SAMSUNG,Galaxy S10e,679.99, 140,256.0,8,2280 x 1080 full hd+,5.8,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+444,SAMSUNG,Galaxy J3,99.99, 100,16.0,2,2280 x 1080 full hd+,5.0,Black,Octa-core Snapdragon 855,10.0,16.0
+445,SAMSUNG,Galaxy S7,185.99, 144,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Silver Titanium,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+446,SAMSUNG,Galaxy S5,199.0,no sale,16.0,4,1440 x 2560  flat quad hd super amoled,5.1,Black,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),16.0,12.0
+447,SAMSUNG,Galaxy S5,199.0,no sale,16.0,4,1440 x 2560  flat quad hd super amoled,5.1,White,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),16.0,12.0
+448,SAMSUNG,Galaxy J3,120.0,no sale,16.0,1.5,1280 x 720,5.0,Black,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),2.0,5.0
+449,SAMSUNG,Galaxy S10e,809.99, 210,128.0,6,2280 x 1080 full hd+,5.8,Prism Blue,Octa-core Snapdragon 855,10.0,16.0
+450,SAMSUNG,Galaxy J3,149.0, 101,16.0,1.5,2280 x 1080 full hd+,5.8,Prism Blue,Octa-core Snapdragon 855,2.0,5.0
+451,SAMSUNG,Galaxy A5,146.68, 183,16.0,3,2280 x 1080 full hd+,5.2,Prism Blue,Octa-core Snapdragon 855,2.0,5.0
+452,SAMSUNG,Galaxy S10+,899.0, 200,16.0,8,3040 x 1440,5.2,Prism Blue,Octa-core Snapdragon 855,10.0,16.0
+453,SAMSUNG,Galaxy S9+,699.0, 100,16.0,6,samoled,5.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+454,SAMSUNG,Galaxy S8+,449.0, 250,64.0,4,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+455,SAMSUNG,Galaxy S8,349.0, 150,64.0,4,samoled,5.8,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+456,SAMSUNG,GALAXY S8+,449.0, 50,64.0,4,samoled,5.8,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+457,SAMSUNG,Galaxy Note,499.0, 200,64.0,64,2960 x 1440,6.3,Black,2.3GHz Quad + 1.7GHz Quad,8.0,12.0
+458,SAMSUNG,Galaxy J3,149.0, 50,16.0,1.5,720 x 1280  16:9 ratio,6.3,Black,2.3GHz Quad + 1.7GHz Quad,2.0,5.0
+459,SAMSUNG,GALAXY S7,299.0, 200,16.0,1.5,720 x 1280  16:9 ratio,6.3,Black,2.3GHz Quad + 1.7GHz Quad,2.0,5.0
+460,SAMSUNG,Galaxy S9+,589.0, 260,64.0,6,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+461,SAMSUNG,Galaxy A70,470.99,no sale,128.0,6,samoled,6.7,Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+462,SAMSUNG,GALAXY A10S,197.99, 22,128.0,6,samoled,6.7,Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+463,SAMSUNG,Galaxy S9+,499.0, 100,64.0,6,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+464,SAMSUNG,Galaxy S10,689.0, 210,128.0,8,3040 x 1440,6.1,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+465,SAMSUNG,Galaxy S8+,439.0, 160,64.0,4,2960 x 1440,6.2,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+466,SAMSUNG,Galaxy S8+,439.0, 160,64.0,4,2960 x 1440,6.2,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+467,SAMSUNG,Galaxy S8+,429.0, 170,64.0,4,2960 x 1440,6.2,Orchid Gray,2.35GHz; 1.9GHz,8.0,12.0
+468,UNLOCKED,Samsung Galaxy,519.0, 280,64.0,6,default resolution is full hd+ and can be changed to,6.2,Midnight Black,10nm AP,8.0,12.0
+470,SAMSUNG,Galaxy S9+,599.0, 100,64.0,6,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+471,SAMSUNG,Galaxy Note,199.0, 100,64.0,6,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+472,SAMSUNG,Galaxy S8+,499.0, 100,64.0,4,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+473,SAMSUNG,Galaxy S8+,467.0, 132,64.0,4,samoled,6.2,Silver,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+474,SAMSUNG,GALAXY S7,319.99, 70,64.0,4,samoled,6.2,Silver,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+476,SAMSUNG,GALAXY S7,339.99, 70,64.0,4,samoled,6.2,Silver,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+481,SAMSUNG,Galaxy S9,589.99, 100,32.0,4,1440 x 2560  flat quad hd super amoled,6.2,Gold Platinum,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+482,SAMSUNG,Galaxy S10+,999.99, 420,32.0,4,1440 x 2560  flat quad hd super amoled,6.2,Gold Platinum,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+483,SAMSUNG,Galaxy Note10,799.99, 200,32.0,4,1440 x 2560  flat quad hd super amoled,6.2,Gold Platinum,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+484,SAMSUNG,Galaxy S9,599.99, 200,32.0,4,1440 x 2560  flat quad hd super amoled,6.2,Gold Platinum,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+485,SAMSUNG,Galaxy S9+,699.99, 300,32.0,4,1440 x 2560  flat quad hd super amoled,6.2,Gold Platinum,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+486,SAMSUNG,Galaxy S8+,348.99, 151,64.0,4,2960 x 1440,6.2,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+487,SAMSUNG,Galaxy A01,189.99, 40,64.0,4,2960 x 1440,6.2,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+488,SAMSUNG,Galaxy J7,205.99, 94,64.0,4,2960 x 1440,6.2,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+489,SAMSUNG,Galaxy J3,139.99, 110,64.0,4,2960 x 1440,6.2,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+490,SAMSUNG,Galaxy A50,389.99, 110,64.0,4,2960 x 1440,6.2,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+491,SAMSUNG,Galaxy S10,949.99, 310,128.0,4,2960 x 1440,6.2,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+492,SAMSUNG,Galaxy A50,389.99, 10,128.0,4,2960 x 1440,6.2,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+493,SAMSUNG,Galaxy S7,229.99, 60,128.0,4,2960 x 1440,6.2,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+494,NEW-,Samsung S7,345.0, 54,128.0,4,2960 x 1440,5.5,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+495,SAMSUNG,Galaxy S8+,357.94, 192,64.0,4,2960 x 1440,6.2,Orchid Gray,2.35GHz; 1.9GHz,8.0,12.0
+496,SAMSUNG,Galaxy S7,218.89, 181,32.0,4,1440 x 2560  dual edge quad hd super amoled,5.5,Coral Blue,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+497,SAMSUNG,Galaxy Note9,548.85, 451,128.0,6,2960 x 1440,6.4,Lavender Purple,2.8 GHz Qualcomm Kyro 385 Gold Quad-Core1.7 GHz Qualcomm Kyro 385 Silver Quad-Core,8.0,12.0
+498,SAMSUNG,Galaxy S9,429.64, 170,64.0,4,samoled,5.8,Sunrise Gold,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+499,SAMSUNG,Galaxy S9+,699.99, 296,64.0,6,samoled,6.2,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+500,SAMSUNG,Galaxy Note,649.99, 750,64.0,6,samoled,6.2,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+501,SAMSUNG,Galaxy S8,539.99, 260,64.0,4,2960 x 1440,5.8,Arctic Silver,2.35GHz; 1.9GHz,8.0,12.0
+502,SAMSUNG,Galaxy S8+,589.99, 310,64.0,4,2960 x 1440,6.2,Coral Blue,2.35GHz; 1.9GHz,8.0,12.0
+503,SAMSUNG,Galaxy M30,279.99, 120,64.0,4,2960 x 1440,6.2,Coral Blue,2.35GHz; 1.9GHz,8.0,12.0
+504,SAMSUNG,Galaxy A5,347.69,no sale,16.0,2,2960 x 1440,5.0,Coral Blue,2.35GHz; 1.9GHz,8.0,13.0
+505,SAMSUNG,Galaxy Note,669.99, 530,16.0,6,2960 x 1440,6.3,Coral Blue,2.35GHz; 1.9GHz,8.0,13.0
+506,CERTIFIED,Refurbished Samsung,749.99,no sale,64.0,6,1440 x 2960,6.3,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+507,SAMSUNG,Galaxy Note9,549.0, 150,128.0,6,2960x1440,6.4,Lavender Purple,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+508,REFURBISHED,- Samsung,179.88, 110,128.0,6,2960x1440,6.4,Lavender Purple,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+511,SAMSUNG,Galaxy S10e,809.99, 60,128.0,6,2280 x 1080 full hd+,5.8,Prism Black,Octa-core Snapdragon 855,10.0,16.0
+512,SAMSUNG,Galaxy S10e,579.99, 340,128.0,6,2280 x 1080 full hd+,5.8,Prism Blue,Octa-core Snapdragon 855,10.0,16.0
+513,SAMSUNG,Galaxy Note9,587.99, 212,128.0,6,2960x1440,6.4,Midnight Black,10nm 64-bit Octa-core processor (Max. 2.7 GHz + 1.7 GHz),8.0,24.0
+514,SAMSUNG,Galaxy S8,369.99,no sale,64.0,4,2960 x 1440,5.8,Orchid Gray,2.35GHz; 1.9GHz,8.0,12.0
+515,SAMSUNG,Galaxy S9,549.0, 411,64.0,4,samoled,5.8,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+516,SAMSUNG,Galaxy S7,319.0, 680,32.0,4,1440 x 2560  dual edge quad hd super amoled,5.5,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+518,SAMSUNG,Galaxy S8,469.0, 566,64.0,4,2960 x 1440,5.8,Orchid Gray,2.35GHz; 1.9GHz,8.0,12.0
+520,SAMSUNG,Galaxy S7,235.0, 164,32.0,4,1440 x 2560  dual edge quad hd super amoled,5.5,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+523,SAMSUNG,Samsung Galaxy,198.0,no sale,128.0,8,3040 x 1440,6.1,Prism White,Octa-core Snapdragon 855,10.0,16.0
+524,SAMSUNG,Galaxy A6,299.9,no sale,32.0,3,3040 x 1440,5.6,Prism White,Octa-core Snapdragon 855,10.0,16.0
+525,SAMSUNG,Galaxy A20S,239.0, 161,32.0,3,3040 x 1440,5.6,Prism White,Octa-core Snapdragon 855,10.0,16.0
+526,SAMSUNG,Galaxy S7,229.99, 120,32.0,3,3040 x 1440,5.1,Prism White,Octa-core Snapdragon 855,10.0,16.0
+527,SAMSUNG,Galaxy S6,289.0, 211,64.0,3,3040 x 1440,5.1,Black,Octa-core Snapdragon 855,10.0,16.0
+528,SAMSUNG,Galaxy A10,199.99, 100,32.0,2,720 x 1520  19:9 ratio,6.2,Black,Octa-core (2x1.6 GHz & 6x1.35 GHz),5.0,13.0
+529,SAMSUNG,GALAXY S8+,449.0, 50,32.0,2,720 x 1520  19:9 ratio,6.2,Black,Octa-core (2x1.6 GHz & 6x1.35 GHz),5.0,13.0
+530,SAMSUNG,Galaxy A50,399.99,no sale,64.0,4,1080 x 2340,6.4,Black,Octa-core (2x1.6 GHz & 6x1.35 GHz),5.0,25.0
+531,SAMSUNG,Galaxy S8+,346.0, 253,64.0,4,2960 x 1440,6.2,Midnight Black,2.35GHz; 1.9GHz,8.0,12.0
+532,SAMSUNG,Galaxy A7,399.99,no sale,32.0,6,1080x1920,6.0,Black,2x2.2 GHz&nbsp;,24.0,24.0
+533,SAMSUNG,Galaxy S7,299.99,no sale,32.0,4,1440x2560,5.1,Black,4x2.3 GHz,5.0,12.0
+534,SAMSUNG,Galaxy Xcover,299.99,no sale,32.0,4,1440x2560,5.1,Black,4x2.3 GHz,5.0,12.0
+535,SAMSUNG,Galaxy Note,229.99,no sale,32.0,3,1440x2560,5.7,Black,4x1.3 GHz&nbsp;,3.7,16.0
+536,SAMSUNG,Galaxy A5,159.99, 140,32.0,3,1080 x 1920,5.7,Black,1.9 GHz,16.0,16.0
+537,SAMSUNG,Galaxy S7,329.99,no sale,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Silver Titanium,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+538,SAMSUNG,Galaxy S7,199.0, 100,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+539,SAMSUNG,Galaxy S8+,389.99,no sale,64.0,4,1440 x 2560  flat quad hd super amoled,6.2,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+540,SAMSUNG,Galaxy S6,249.99, 100,32.0,3,2560 x 1440,5.1,Gold,Octa-core (4x2.1 GHz Cortex-A57 & 4x1.5 GHz Cortex-A53),5.0,16.0
+541,SAMSUNG,Galaxy S3,129.99, 60,16.0,2,720 x 1280,4.8,Pebble Blue,Dual-core 1.5 GHz Krait,1.9,8.0
+542,UNLOCKED,Samsung Galaxy,129.99,no sale,16.0,2,720 x 1280,4.8,Pebble Blue,Dual-core 1.5 GHz Krait,1.9,8.0
+543,SAMSUNG,Galaxy Unlocked,679.0, 221,64.0,6,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+544,SAMSUNG,Galaxy A10S,199.87, 50,64.0,6,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+545,SAMSUNG,Galaxy A70,519.99, 10,64.0,6,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+546,SAMSUNG,Galaxy J3,239.99, 36,64.0,6,samoled,6.2,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+547,SAMSUNG,Galaxy Note,1049.49,no sale,256.0,8,1080x2280,6.3,Aura Glow,Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55),10.0,40.0
+548,SAMSUNG,Galaxy S9,599.99,no sale,64.0,4,samoled,5.8,Lilac Purple,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+549,SAMSUNG,Galaxy S7,187.99, 142,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Silver Titanium,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+550,SAMSUNG,Galaxy S9+,489.99, 510,64.0,6,samoled,6.2,Coral Blue,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+551,SAMSUNG,Galaxy S7,185.99, 144,32.0,4,1440 x 2560  flat quad hd super amoled,5.1,Black Onyx,Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53),5.0,12.0
+552,SAMSUNG,Galaxy S9,399.0, 300,64.0,4,samoled,5.8,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+553,SAMSUNG,GALAXY S8,399.0,no sale,64.0,4,samoled,5.8,Titanium Grey,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+554,SAMSUNG,Galaxy S9+,449.99, 250,64.0,6,samoled,6.2,Midnight Black,Qualcomm MSM8998 Snapdragon 845,8.0,12.0
+555,SAMSUNG,Galaxy J3,129.99, 69,16.0,6,samoled,6.2,Midnight Black,1.4GHz,8.0,8.0
+556,SAMSUNG,Galaxy S10e,789.99,no sale,128.0,6,2280 x 1080 full hd+,5.8,Midnight Black,Octa-core Snapdragon 855,10.0,16.0
+0,APPLE,iPhone 7,223.4, 270,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+1,APPLE,iPhone 8,354.1, 245,64,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+2,APPLE,iPhone XR,598.99, 101,64,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+3,APPLE,iPhone 11,979.99,no sale,64,3.0,1792 x 828,6.1,Black,A13 Bionic Chip,7.0,12.0
+4,APPLE,iPhone X,624.99, 575,256,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+5,APPLE,iPhone X,609.0, 190,64,3.0,2436 x 1125,5.8,Space Gray,Apple A11 Bionic,7.0,12.0
+6,APPLE,iPhone 8,396.0, 398,64,3.0,1920 x 1080,5.5,Gold,Apple A11 Bionic,7.0,12.0
+7,APPLE,iPhone 11,979.99,no sale,64,3.0,1792 x 828,6.1,White,A13 Bionic Chip,7.0,12.0
+8,APPLE,iPhone 11,1519.99,no sale,64,3.0,2688 x 1242,6.5,Midnight Green,A13 Bionic Chip,7.0,12.0
+9,APPLE,iPhone 8,351.9, 248,64,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+10,APPLE,iPhone XR,799.99,no sale,64,2.0,1792 x 828,6.1,Black,Apple A11 Bionic,7.0,12.0
+11,APPLE,iPhone X,644.99, 155,256,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+12,APPLE,iPhone XR,699.99,no sale,64,3.0,1792 x 828,6.1,Black,Apple A11 Bionic,7.0,12.0
+13,APPLE,iPhone 11,979.99,no sale,64,3.0,1792 x 828,6.1,Purple,A13 Bionic Chip,7.0,12.0
+14,APPLE,iPhone 8,399.0, 301,64,3.0,1920 x 1080,5.5,Grey,Apple A11 Bionic,7.0,12.0
+15,APPLE,iPhone XR,699.99,no sale,64,3.0,1792 x 828,6.1,(PRODUCT)RED,Apple A11 Bionic,7.0,12.0
+16,APPLE,iPhone 8,499.99,no sale,64,3.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+17,APPLE,iPhone 6,178.08, 72,64,1.0,1334 x 750,4.7,Space Gray,1.4GHz,7.0,8.0
+18,APPLE,iPhone 8,599.99,no sale,64,1.0,1334 x 750,4.7,Space Grey,1.4GHz,7.0,12.0
+19,APPLE,iPhone 6S,159.0, 140,32,2.0,1 334 x 750,4.7,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+20,APPLE,iPhone 11,1519.99,no sale,64,2.0,2688 x 1242,6.5,Gold,A13 Bionic Chip,5.0,12.0
+21,APPLE,iPhone 6,159.08, 91,16,1.0,1 334 x 750,4.7,Grey; Black.,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+22,APPLE,iPhone 8,443.0, 356,64,3.0,1920 x 1080,5.5,Gold,Apple A11 Bionic,7.0,12.0
+23,APPLE,iPhone 11,1519.99,no sale,64,3.0,2688 x 1242,6.5,Space Grey,A13 Bionic Chip,7.0,12.0
+24,APPLE,iPhone 8,334.5, 264,64,2.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+25,APPLE,iPhone 11,1049.99,no sale,128,2.0,1792 x 828,6.1,White,A13 Bionic Chip,7.0,12.0
+26,APPLE,iPhone 11,809.97, 170,64,4.0,828 x 1792,6.1,Black,Apple A13 Bionic,12.0,12.0
+27,APPLE,iPhone XR,647.98, 152,64,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+28,APPLE,iPhone 7,261.5, 238,32,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+29,APPLE,iPhone 11,899.99,no sale,64,2.0,1792 x 828,6.1,Black,A13 Bionic Chip,7.0,12.0
+30,APPLE,iPhone 7,195.0, 435,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+31,APPLE,iPhone 8,373.93, 425,64,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+32,APPLE,iPhone 8,599.99,no sale,64,2.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+33,APPLE,iPhone 7,283.03, 167,128,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+34,APPLE,iPhone XS,1259.99,no sale,64,2.0,2436 x 1125,5.8,Space Grey,Apple A10 Fusion,7.0,24.0
+35,APPLE,iPhone 8,407.47,no sale,64,3.0,1920 x 1080,5.5,Grey,Apple A11 Bionic,7.0,12.0
+36,APPLE,iPhone 7,299.98, 299,32,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+37,APPLE,iPhone XR,646.0, 203,64,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+38,APPLE,iPhone 11,1379.99,no sale,64,3.0,2436 x 1125,5.8,Space Grey,A13 Bionic Chip,7.0,12.0
+39,APPLE,iPhone XR,699.99,no sale,64,3.0,1792 x 828,6.1,White,A13 Bionic Chip,7.0,12.0
+40,APPLE,iPhone 11,899.99,no sale,64,3.0,1792 x 828,6.1,Purple,A13 Bionic Chip,7.0,12.0
+41,APPLE,iPhone XR,799.95,no sale,64,3.0,1792 x 828,6.1,Coral,A13 Bionic Chip,7.0,12.0
+42,APPLE,iPhone 7,299.0, 26,128,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+43,APPLE,iPhone 8,334.0, 365,64,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+44,APPLE,iPhone 7,269.0, 230,128,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+45,APPLE,iPhone 11,979.99,no sale,64,2.0,1792 x 828,6.1,Red,A13 Bionic Chip,7.0,12.0
+46,APPLE,iPhone X,599.9, 399,64,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+47,APPLE,iPhone XS,1229.95,no sale,64,3.0,2688 x 1242,6.5,Space Grey,Apple A11 Bionic,7.0,24.0
+48,APPLE,iPhone 11,1379.99,no sale,64,3.0,2436 x 1125,5.8,Midnight Green,A13 Bionic Chip,7.0,12.0
+49,APPLE,iPhone 7,348.0, 251,32,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+50,APPLE,iPhone XR,799.99,no sale,64,3.0,1792 x 828,6.1,White,Apple A10 Fusion,7.0,12.0
+51,APPLE,iPhone 7,379.99,no sale,32,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+52,APPLE,iPhone 11,1049.99,no sale,128,2.0,1792 x 828,6.1,Black,A13 Bionic Chip,7.0,12.0
+53,APPLE,iPhone XR,799.99,no sale,64,2.0,1792 x 828,6.1,(PRODUCT)RED,A13 Bionic Chip,7.0,12.0
+54,APPLE,iPhone 11,1379.95,no sale,64,2.0,2436 x 1125,5.8,Silver,A13 Bionic Chip,7.0,12.0
+55,APPLE,iPhone 6S,579.99,no sale,64,2.0,2436 x 1125,5.8,Silver,A13 Bionic Chip,7.0,12.0
+56,APPLE,iPhone 11,1399.99,no sale,64,2.0,2688 x 1242,6.5,Midnight Green,A13 Bionic Chip,7.0,12.0
+57,APPLE,iPhone X,629.49, 371,256,3.0,2436 x 1125,5.8,Space Gray,Apple A11 Bionic,7.0,12.0
+58,APPLE,iPhone XR,699.0, 200,64,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+59,APPLE,iPhone 8,344.02, 255,64,2.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+60,APPLE,iPhone 7,359.09, 241,128,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+61,APPLE,iPhone 8,559.87, 155,64,3.0,1920 x 1080,5.5,Gold,Apple A11 Bionic,7.0,12.0
+62,APPLE,iPhone XR,628.99, 171,64,3.0,1792 x 828,5.5,Black,Apple A11 Bionic,7.0,12.0
+63,APPLE,iPhone 8,348.0, 351,64,2.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+64,APPLE,iPhone 7,221.02, 379,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+65,APPLE,iPhone XS,794.0, 405,64,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+66,APPLE,iPhone 7,407.16, 65,128,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+67,APPLE,iPhone 8,346.0, 353,64,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+68,APPLE,iPhone 11,899.99,no sale,64,2.0,1792 x 828,6.1,White,A13 Bionic Chip,7.0,12.0
+69,APPLE,iPhone XR,598.0, 201,64,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+70,APPLE,iPhone XS,792.0, 707,64,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
+71,APPLE,iPhone XS,971.4,no sale,256,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
+72,APPLE,iPhone XR,699.99,no sale,64,4.0,1792 x 828,6.1,Coral,Apple A12 Bionic,7.0,12.0
+73,APPLE,iPhone XS,679.99, 320,64,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+74,APPLE,iPhone 11,1379.99,no sale,64,4.0,2436 x 1125,5.8,Gold,A13 Bionic Chip,7.0,12.0
+75,APPLE,iPhone XS,895.59, 304,64,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+76,APPLE,iPhone XR,679.98, 120,128,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+77,APPLE,iPhone 11,1399.99,no sale,64,3.0,2688 x 1242,6.5,Gold,A13 Bionic Chip,7.0,12.0
+78,APPLE,iPhone 11,854.99, 195,128,4.0,828 x 1792,6.1,Black,Apple A13 Bionic,12.0,12.0
+79,APPLE,iPhone XR,999.0,no sale,128,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+80,APPLE,iPhone 7,374.04, 226,256,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+81,APPLE,iPhone 8,508.5, 191,64,3.0,1920 x 1080,5.5,Red,Apple A11 Bionic,7.0,12.0
+82,APPLE,iPhone 11,899.99,no sale,64,3.0,1792 x 828,6.1,Red,A13 Bionic Chip,7.0,12.0
+83,APPLE,iPhone 11,1169.99, 210,64,4.0,1125 x 2436,5.8,Space Gray,Apple A13 Bionic,12.0,48.0
+84,APPLE,iPhone XS,874.0, 125,256,4.0,2688 x 1242,6.5,Silver,Apple A12 Bionic,7.0,24.0
+85,APPLE,iPhone X,744.99, 455,256,3.0,2436 x 1125,5.8,Space Gray,Apple A11 Bionic,7.0,12.0
+86,APPLE,iPhone 7,208.4, 191,32,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+87,APPLE,iPhone 8,419.0, 380,64,3.0,1920 x 1080,5.5,Silver,Apple A11 Bionic,7.0,12.0
+88,IPHONE,6 Plus,279.97, 196,64,1.0,1920-by-1080-pixel,5.5,Grey; Black.,A8 chip with 64-bit architecture; M8 motion coprocessor.,1.2,8.0
+89,IPHONE,6s 128gb,244.95, 156,128,2.0,1 334 x 750,4.7,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+90,NO BRAND,no model,357.0, 133,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+91,APPLE,iPhone XR,699.99,no sale,64,2.0,1792 x 828,6.1,Blue,Apple A10 Fusion,7.0,12.0
+92,IPHONE,SE 32gb,144.04, 156,32,2.0,1136-by-640-pixel,4.0,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+93,APPLE,iPhone 8,448.4, 151,64,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+94,APPLE,iPhone 6S,167.02, 133,32,2.0,1334 x 750,4.7,Gray,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,7.0,12.0
+95,APPLE,iPhone 7,247.0, 151,32,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+96,APPLE,iPhone 11,1299.99,no sale,64,2.0,2436 x 1125,5.8,Space Grey,A13 Bionic Chip,7.0,12.0
+97,APPLE,iPhone 6,137.07, 163,16,1.0,1 334 x 750,4.7,Silver; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+98,APPLE,iPhone XR,643.0, 456,64,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+99,APPLE,iPhone 11,1259.99, 260,64,4.0,1242 x 2688,6.5,Midnight Green,Apple A13 Bionic,12.0,48.0
+100,APPLE,iPhone 11,1299.99,no sale,64,4.0,2436 x 1125,5.8,Midnight Green,A13 Bionic Chip,12.0,12.0
+101,APPLE,iPhone 6,138.06, 161,64,1.0,1334 x 750,4.7,Silver,1.4GHz,12.0,8.0
+102,APPLE,iPhone 6s,159.09, 241,64,2.0,1334 x 750,4.7,Space Gray,1.84GHz,12.0,12.0
+103,APPLE,iPhone 11,809.0, 170,64,4.0,828 x 1792,6.1,White,Apple A13 Bionic,12.0,12.0
+104,APPLE,iPhone 11,1049.99,no sale,128,4.0,1792 x 828,6.1,Red,A13 Bionic Chip,12.0,12.0
+105,APPLE,iPhone 7,376.08, 124,256,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+106,APPLE,iPhone 7,399.99, 299,32,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+107,APPLE,iPhone XS,999.99,no sale,64,3.0,2436 x 1125,5.8,Space Grey,Apple A10 Fusion,7.0,24.0
+108,APPLE,iPhone 6,178.08, 72,64,1.0,1 334 x 750,4.7,Silver; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+109,APPLE,iPhone XR,594.99, 230,64,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+110,APPLE,iPhone XS,935.0, 444,64,4.0,2436 x 1125,5.8,Gold,Apple A12 Bionic,7.0,24.0
+111,APPLE,iPhone XS,749.99, 250,256,4.0,2436 x 1125,5.8,Silver,Apple A12 Bionic,7.0,24.0
+112,APPLE,iPhone 6s,449.97,no sale,32,2.0,2436 x 1125,4.7,Space Grey,Apple A9,5.0,12.0
+113,APPLE,iPhone 6s,187.07, 263,64,2.0,1 334 x 750,4.7,Rose Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+114,APPLE,iPhone 11,1449.99,no sale,256,2.0,2436 x 1125,5.8,Gold,A13 Bionic Chip,5.0,12.0
+115,APPLE,iPhone X,599.99, 250,64,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+116,APPLE,iPhone 5s,99.98, 80,16,1.0,1136-by-640-pixel,4.0,Silver; White.,A7 chip with 64-bit architecture,1.2,8.0
+117,APPLE,iPhone 7,326.06, 374,128,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+118,APPLE,iPhone XS,1099.99,no sale,64,3.0,2688 x 1242,6.5,Gold,Apple A10 Fusion,7.0,24.0
+119,APPLE,iPhone 8,447.9, 151,64,2.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+120,APPLE,iPhone 11,1399.99,no sale,64,2.0,2688 x 1242,6.5,Space Grey,A13 Bionic Chip,7.0,12.0
+121,APPLE,iPhone 8,559.79, 240,64,3.0,1920 x 1080,5.5,Grey,Apple A11 Bionic,7.0,12.0
+122,APPLE,iPhone 7,268.99, 130,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+123,APPLE,iPhone 8,475.0, 124,64,2.0,1334 x 750,4.7,Red,Apple A11 Bionic,7.0,12.0
+124,IPHONE,6s 32gb,178.88, 221,32,2.0,1 334 x 750,4.7,Rose Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+125,APPLE,iPhone 11,809.98, 189,64,4.0,828 x 1792,6.1,Red,Apple A13 Bionic,12.0,12.0
+126,APPLE,iPhone 7,319.88, 180,32,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+127,APPLE,iPhone 7,399.98,no sale,32,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+128,APPLE,iPhone 8,563.99, 196,64,3.0,1920 x 1080,5.5,Silver,Apple A11 Bionic,7.0,12.0
+129,IPHONE,SE 32gb,199.95, 150,32,2.0,1136-by-640-pixel,4.0,Rose; White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+130,APPLE,iPhone 7,332.79, 217,256,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+131,APPLE,iPhone 11,1169.99, 210,64,4.0,1125 x 2436,5.8,Midnight Green,Apple A13 Bionic,12.0,48.0
+132,APPLE,iPhone XS,749.99, 250,256,4.0,2436 x 1125,5.8,Gold,Apple A12 Bionic,7.0,24.0
+133,APPLE,iPhone 11,1169.99, 210,64,4.0,1125 x 2436,5.8,Silver,Apple A13 Bionic,12.0,48.0
+134,APPLE,iPhone 7,207.0, 493,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+135,IPHONE,6S 64gb,224.95, 135,64,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+136,APPLE,iPhone 8,449.99, 150,64,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+137,APPLE,iPhone 11,1259.99, 260,64,4.0,1242 x 2688,6.5,Space Gray,Apple A13 Bionic,12.0,48.0
+138,APPLE,iPhone 7,287.0, 212,128,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+139,APPLE,iPhone 11,1299.99,no sale,64,2.0,2436 x 1125,5.8,Gold,A13 Bionic Chip,7.0,12.0
+140,APPLE,iPhone XS,1204.99, 195,64,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+141,APPLE,iPhone 5c,79.98, 60,64,1.0,1136 x 640,4.0,Blue,Dual-core 1.3 GHz Swift (ARM v7-based),1.2,8.0
+142,APPLE,iPhone 6s,154.04, 146,32,2.0,1334 x 750,4.7,Rose Gold,Apple A9,0.72,12.0
+143,APPLE,iPhone X,643.0, 656,32,2.0,2436 x 1125,4.7,Silver,Apple A9,7.0,12.0
+144,APPLE,iPhone XS,999.99,no sale,64,2.0,2436 x 1125,5.8,Gold,Apple A9,7.0,24.0
+145,APPLE,iPhone 6S,299.95, 122,64,2.0,1334 x 750,4.7,Silver,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,7.0,12.0
+146,APPLE,iPhone XS,1124.99, 175,256,4.0,2436 x 1125,5.8,Silver,Apple A12 Bionic,7.0,24.0
+147,IPHONE,6s Plus,259.09, 141,64,2.0,1 334 x 750,4.7,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+148,APPLE,iPhone XS,875.0, 504,64,4.0,2436 x 1125,5.8,Silver,Apple A12 Bionic,7.0,24.0
+149,APPLE,iPhone 11,1259.99, 260,64,4.0,1242 x 2688,6.5,Gold,Apple A13 Bionic,12.0,48.0
+150,APPLE,iPhone 6S,229.99, 170,64,4.0,1242 x 2688,6.5,Gold,Apple A13 Bionic,12.0,48.0
+151,APPLE,iPhone X,589.0, 410,64,3.0,2436 x 1125,5.8,Space Gray,Apple A11 Bionic,7.0,12.0
+152,APPLE,iPhone XS,1399.0, 200,256,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+153,APPLE,iPhone 6s,449.97,no sale,32,2.0,2688 x 1242,4.7,Rose Gold,Apple A9,5.0,12.0
+154,IPHONE,6 128gb,193.76, 153,128,1.0,1 334 x 750,4.7,Grey; Black.,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+155,APPLE,iPhone XR,999.0,no sale,128,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+156,APPLE,iPhone 8,529.0, 370,256,3.0,1920 x 1080,5.5,Grey,Apple A11 Bionic,7.0,12.0
+157,APPLE,iPhone XR,649.99, 175,64,3.0,1792 x 828,6.1,Yellow,Apple A12 Bionic,7.0,12.0
+158,APPLE,iPhone 8,429.88, 130,64,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+159,APPLE,iPhone 7,352.0, 247,128,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+160,APPLE,iPhone XS,749.99, 250,256,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+161,APPLE,iPhone 7,257.9, 141,32,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+162,APPLE,iPhone XR,672.99, 227,64,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+163,APPLE,iPhone 8,435.3, 364,256,2.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+164,APPLE,iPhone 7,529.99, 270,128,2.0,1334 x 750,4.7,ROSE GOLD,Apple A11 Bionic,7.0,12.0
+165,APPLE,iPhone 11,1399.99,no sale,64,2.0,2688 x 1242,6.5,Silver,A13 Bionic Chip,7.0,12.0
+166,APPLE,iPhone 7,619.99, 340,32,2.0,2688 x 1242,6.5,Silver,A13 Bionic Chip,7.0,12.0
+167,APPLE,iPhone X,749.99, 250,64,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+168,APPLE,iPhone 8,719.99, 80,64,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+169,NO BRAND,no model,315.0, 454,64,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+170,APPLE,iPhone XS,1099.99,no sale,64,3.0,2688 x 1242,6.5,Space Grey,Apple A11 Bionic,7.0,24.0
+171,APPLE,iPhone 11,1299.99,no sale,64,3.0,2436 x 1125,5.8,Silver,A13 Bionic Chip,7.0,12.0
+172,APPLE,iPhone X,744.99, 255,64,3.0,2436 x 1125,5.8,Space Gray,Apple A11 Bionic,7.0,12.0
+173,IPHONE,5s 16gb,98.08, 82,16,1.0,1136-by-640-pixel,4.0,Grey; Black.,A7 chip with 64-bit architecture,1.2,8.0
+174,APPLE,iPhone 7,308.35, 192,128,2.0,750 x 1334,4.7,Jet Black,Apple A10 Fusion,7.0,12.0
+175,APPLE,iPhone XR,679.99, 350,64,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+176,APPLE,iPhone X,619.0, 581,256,3.0,2436 x 1125,5.8,Space Gray,Apple A11 Bionic,7.0,12.0
+177,APPLE,iPhone 7,328.2, 371,32,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+178,APPLE,iPhone 7,375.99, 204,32,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+179,IPHONE,SE 64gb,139.98, 160,64,2.0,1136-by-640-pixel,4.0,Rose; White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+180,APPLE,iPhone 7,235.55, 264,32,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+181,APPLE,iPhone SE,109.68, 190,16,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+182,APPLE,iPhone 6s,299.0, 200,16,2.0,1920 x 1080,5.5,Gold,Apple A9,0.72,12.0
+183,IPHONE,6s 128gb,244.95, 168,128,2.0,1 334 x 750,4.7,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+184,APPLE,iPhone 6s,264.95, 120,64,2.0,1 334 x 750,4.7,Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+185,APPLE,iPhone 6s,379.99,no sale,32,2.0,1 334 x 750,4.7,Rose Gold,Apple A9,5.0,12.0
+186,APPLE,iPhone 6s,244.95, 112,32,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+187,APPLE,iPhone XS,799.99, 500,64,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
+188,IPHONE,7 32gb,259.98, 340,32,2.0,1334-by-750-pixel,4.7,Silver; White.,A10 Fusion chip with 64-bit architecture;    Embedded M10 motion coprocessor.,7.0,12.0
+189,APPLE,iPhone 8,699.98, 100,256,3.0,1920 x 1080,5.5,Gold,Apple A11 Bionic,7.0,12.0
+190,APPLE,iPhone 6s,449.99,no sale,32,2.0,1920 x 1080,4.7,Space Grey,Apple A9,5.0,12.0
+191,APPLE,iPhone 8,549.99,no sale,64,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+192,APPLE,iPhone 8,445.94, 354,256,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+193,APPLE,iPhone 7,340.99, 309,128,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+194,APPLE,iPhone XS,829.99, 470,64,4.0,2436 x 1125,5.8,Gold,Apple A12 Bionic,7.0,24.0
+195,APPLE,iPhone XR,739.79, 160,128,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+196,APPLE,iPhone SE,179.99, 70,128,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+197,APPLE,iPhone XS,895.15,no sale,64,4.0,2688 x 1242,6.5,Silver,Apple A12 Bionic,7.0,24.0
+198,APPLE,iPhone X,643.53, 55,64,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+199,APPLE,iPhone XS,699.99, 350,64,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+200,APPLE,iPhone XR,619.99, 180,64,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+201,APPLE,iPhone 6S,159.98, 240,64,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+202,IPHONE,6s Plus,217.07, 183,32,2.0,1 334 x 750,4.7,Rose Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+203,APPLE,iPhone XR,699.99, 300,128,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+204,APPLE,iPhone 6s,199.98, 200,128,2.0,1334 x 750,4.7,Rose Gold,1.84GHz,7.0,12.0
+205,APPLE,iPhone 5s,93.99, 206,16,1.0,1136 x 640,4.0,Space Grey,Dual-core 1.3 GHz Cyclone,1.2,8.0
+206,APPLE,iPhone 8,604.99, 275,256,3.0,1920 x 1080,5.5,Silver,Apple A11 Bionic,7.0,12.0
+207,APPLE,iPhone XS,1249.99, 549,256,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
+208,APPLE,iPhone 7,629.99, 270,128,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+209,APPLE,iPhone 6,149.0, 150,64,1.0,1 334 x 750,4.7,Grey; Black.,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+210,APPLE,iPhone 6s,149.98, 180,16,2.0,1 334 x 750,4.7,Rose Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+211,APPLE,iPhone 5s,88.88, 91,16,2.0,1 334 x 750,4.7,Gray,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+212,APPLE,iPhone XS,1500.0,no sale,256,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+213,APPLE,iPhone 6,136.06, 164,64,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+214,APPLE,iPhone 7,314.94, 454,128,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+215,APPLE,iPhone 5s,80.0, 40,16 MB,1.0,1136 x 640,4.0,Gray,Apple A10 Fusion,1.2,8.0
+216,APPLE,iPhone XR,599.99, 100,64,3.0,1792 x 828,6.1,Yellow,Apple A12 Bionic,7.0,12.0
+217,APPLE,iPhone 7,458.99, 421,128,3.0,1080 x 1920,5.5,Jet Black,Apple A10 Fusion,7.0,24.0
+218,APPLE,iPhone 11,899.99, 199,64,4.0,828 x 1792,6.1,Black,Apple A13 Bionic,12.0,12.0
+219,APPLE,iPHONE 6S,229.08, 121,64,4.0,828 x 1792,6.1,Black,Apple A13 Bionic,12.0,12.0
+220,APPLE,iPhone 8,384.89, 115,64,2.0,1334 x 750,4.7,Red,Apple A11 Bionic,7.0,12.0
+221,APPLE,iPhone XR,617.9, 181,64,3.0,1792 x 828,6.1,Coral,Apple A12 Bionic,7.0,12.0
+222,APPLE,iPhone X,1089.99,no sale,64,3.0,2436 x 1125,5.8,Silver,Apple A12 Bionic,7.0,12.0
+223,APPLE,iPhone XS,749.99, 550,256,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+224,APPLE,iPhone 7,388.08, 112,256,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+225,APPLE,iPhone 11,1199.99, 300,256,4.0,828 x 1792,6.1,Red,Apple A13 Bionic,12.0,12.0
+226,APPLE,iPhone XS,999.99,no sale,64,4.0,2436 x 1125,5.8,Silver,Apple A13 Bionic,7.0,24.0
+227,APPLE,iPhone SE,157.08, 143,64,4.0,1136 x 640,5.8,Gold,Apple A13 Bionic,7.0,24.0
+228,APPLE,iPhone XR,599.0,no sale,64,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+229,APPLE,iPhone 8,443.97,no sale,64,3.0,1920 x 1080,5.5,Silver,Apple A11 Bionic,7.0,12.0
+230,APPLE,iPhone XR,719.78, 39,128,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+231,APPLE,iPhone 7,289.9, 50,32,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+232,APPLE,iPhone XR,629.79, 170,32,3.0,1792 x 828,5.5,Blue,Apple A10 Fusion,7.0,12.0
+233,APPLE,iPhone 6,121.0, 58,64,1.0,1 334 x 750,4.7,Gold; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+234,APPLE,iPhone X,999.99,no sale,64,1.0,2436 x 1125,5.8,Space Grey,Dual-core 1.4 GHz Typhoon (ARM v8-based),7.0,12.0
+235,APPLE,iPhone XR,692.99, 177,64,1.0,1792 x 828,5.8,Black,Dual-core 1.4 GHz Typhoon (ARM v8-based),7.0,12.0
+236,APPLE,iPhone 7,349.99, 200,32,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+237,APPLE,iPhone 6s,185.0, 45,32,2.0,1334 x 750,4.7,Rose Gold,Apple A9,0.72,12.0
+238,APPLE,iPhone 6,199.0, 50,128,1.0,1 334 x 750,4.7,Silver; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+239,APPLE,iPhone XS,854.99, 145,512,4.0,2436 x 1125,5.8,Gold,Apple A12 Bionic,7.0,24.0
+240,APPLE,iPhone XR,619.99, 180,512,4.0,2436 x 1125,5.8,Gold,Apple A12 Bionic,7.0,24.0
+241,APPLE,iPhone XS,799.99, 500,64,4.0,2688 x 1242,6.5,Silver,Apple A12 Bionic,7.0,24.0
+242,APPLE,iPhone 5s,98.08, 102,16,1.0,1136 x 640,4.0,Gold,Dual-core 1.3 GHz Cyclone,1.2,8.0
+243,IPHONE,5 16GB,80.0,no sale,16,1.0,1136 x 640,4.0,Gold,Dual-core 1.3 GHz Cyclone,1.2,8.0
+244,IPHONE,6 16gb,134.08, 116,16,1.0,1 334 x 750,4.7,Grey; Black.,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+245,APPLE,iPhone 11,1729.99,no sale,256,4.0,1242 x 2688,6.5,Silver,Apple A13 Bionic,12.0,48.0
+246,APPLE,iPhone 6,119.99, 230,16,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+247,APPLE,iPhone XR,609.0, 191,16,1.0,1792 x 828,4.7,White,Apple A8,7.0,12.0
+248,APPLE,iPhone 11,1999.99,no sale,512,4.0,1242 x 2688,6.5,Silver,Apple A13 Bionic,12.0,48.0
+249,IPHONE,SE 64gb,265.95, 50,64,2.0,1136-by-640-pixel,4.0,Silver; White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+250,APPLE,iPhone 8,413.99, 136,64,2.0,1334 x 750,4.7,Red,Apple A11 Bionic,7.0,12.0
+251,APPLE,iPhone 8,389.0, 161,64,2.0,1334 x 750,4.7,Red,Apple A11 Bionic,7.0,12.0
+252,APPLE,iPHONE 6S,279.09, 153,64,2.0,1334 x 750,4.7,Red,Apple A11 Bionic,7.0,12.0
+253,APPLE,iPhone XR,880.99, 159,256,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+254,APPLE,iPhone 6S,229.99, 68,256,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+255,APPLE,iPhone 5s,98.0,no sale,16 MB,1.0,1136 x 640,4.0,Silver,Apple A12 Bionic,1.2,8.0
+256,IPHONE,6s 32gb,168.88, 131,32,2.0,1 334 x 750,4.7,Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+257,APPLE,iPhone 11,1589.99,no sale,256,2.0,2436 x 1125,5.8,Space Grey,A13 Bionic Chip,5.0,12.0
+258,APPLE,iPhone XS,1500.0,no sale,256,4.0,2436 x 1125,5.8,Gold,Apple A12 Bionic,7.0,24.0
+259,IPHONE,6 Plus,199.98, 200,16,1.0,1920-by-1080-pixel,5.5,Grey; Black.,A8 chip with 64-bit architecture; M8 motion coprocessor.,1.2,8.0
+260,APPLE,iPhone 11,1169.99, 210,64,4.0,1125 x 2436,5.8,Gold,Apple A13 Bionic,12.0,48.0
+261,IPHONE,SE 32GB,184.95, 205,64,4.0,1125 x 2436,5.8,Gold,Apple A13 Bionic,12.0,48.0
+262,IPHONE,6 16gb,162.39, 165,16,1.0,1 334 x 750,4.7,Silver; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+263,APPLE,iPhone SE,599.99,no sale,16,1.0,1 334 x 750,4.7,Silver; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+264,APPLE,iPhone SE,156.0, 83,64 MB,2.0,1136 x 640,4.0,Gray,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,12.0
+265,IPHONE,6s Plus,288.65,no sale,64,2.0,1 334 x 750,4.7,Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+266,APPLE,iPhone 6s,499.0,no sale,16,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+267,APPLE,iPhone XS,1300.0,no sale,64,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
+268,APPLE,iPhone 7,369.98, 230,128,3.0,1080 x 1920,5.5,Jet Black,Apple A10 Fusion,7.0,24.0
+269,IPHONE,SE 64gb,156.08, 194,64,2.0,1136-by-640-pixel,4.0,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+270,IPHONE,5s 32gb,299.0,no sale,32,1.0,1136-by-640-pixel,4.0,Silver; White.,A7 chip with 64-bit architecture,1.2,8.0
+271,APPLE,iPhone 7,328.86, 271,128,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+272,APPLE,iPhone XS,749.0, 251,64,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+273,APPLE,iPhone X,1045.95, 224,256,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+274,APPLE,iPhone X,750.0, 300,256,3.0,2436 x 1125,5.8,Space Gray,Apple A11 Bionic,7.0,12.0
+275,APPLE,iPhone 8,438.98, 160,256,2.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+276,APPLE,iPhone XS,798.99, 201,64,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+277,APPLE,iPhone XR,658.78, 39,64,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+278,APPLE,iPhone 8,469.99, 190,256,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+279,APPLE,iPhone XR,629.99, 170,256,2.0,1792 x 828,4.7,Coral,Apple A11 Bionic,7.0,12.0
+280,APPLE,iPhone 11,979.97, 70,64,4.0,828 x 1792,6.1,White,Apple A13 Bionic,12.0,12.0
+281,APPLE,iPhone XS,899.99,no sale,64,4.0,2436 x 1125,5.8,Silver,Apple A12 Bionic,7.0,24.0
+282,APPLE,iPhone SE,139.99, 180,64,2.0,1136 x 640,4.0,Space gray,Apple A9,0.72,12.0
+283,APPLE,iPhone SE,158.08, 92,64,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+284,APPLE,iPhone 7,499.99, 300,128,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+285,APPLE,iPhone XS,1789.49, 211,512,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+286,APPLE,iPhone XS,1379.99,no sale,256,4.0,2688 x 1242,6.5,Silver,Apple A12 Bionic,7.0,24.0
+287,APPLE,iPhone 11,978.99, 171,64,4.0,828 x 1792,6.1,Purple,Apple A13 Bionic,12.0,12.0
+288,IPHONE,6S Plus,299.99, 300,128,4.0,828 x 1792,5.5,Purple,Apple A13 Bionic,12.0,12.0
+289,APPLE,iPhone 7,284.08, 116,256,2.0,750 x 1334,4.7,Jet Black,Apple A10 Fusion,7.0,12.0
+290,APPLE,iPhone 11,854.99, 195,128,4.0,828 x 1792,6.1,White,Apple A13 Bionic,12.0,12.0
+291,APPLE,iPhone 7,445.89, 184,32,4.0,750 x 1334,4.7,Black Matte,Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr),7.0,12.0
+292,APPLE,iPhone 7,289.99, 500,32,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+293,APPLE,iPhone 6s,169.98, 220,32,2.0,1 334 x 750,4.7,Rose Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+294,IPHONE,6s 128gb,209.99,no sale,128,2.0,1 334 x 750,4.7,Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+295,IPHONE,SE 16gb,123.98, 176,16,2.0,1136-by-640-pixel,4.0,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+296,APPLE,iPhone 6s,359.99, 440,32,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+297,APPLE,iPhone XS,988.93, 241,64,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+298,APPLE,iPhone XR,899.99,no sale,256,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+299,APPLE,iPhone 11,1259.99, 260,64,4.0,1242 x 2688,6.5,Silver,Apple A13 Bionic,12.0,48.0
+300,REFURBISHED,- Apple,599.4, 800,64,4.0,1242 x 2688,6.5,Silver,Apple A13 Bionic,12.0,48.0
+301,APPLE,iPhone 8,398.91, 201,64,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+302,APPLE,iPhone 7,262.0, 137,32,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+303,APPLE,iPhone 6s,168.08, 132,32,2.0,1334 x 750,4.7,Rose Gold,1.84GHz,7.0,12.0
+304,APPLE,iPhone 6s,158.06, 342,32,2.0,1334 x 750,4.7,Silver,1.84GHz,7.0,12.0
+305,APPLE,iPhone XS,869.0, 831,512,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+306,APPLE,iPhone 7,287.99, 412,256,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+307,APPLE,iPhone XR,679.99, 350,64,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+308,APPLE,iPhone XS,949.99, 350,64,4.0,1792 x 828,5.8,Red,Apple A12 Bionic,7.0,12.0
+309,IPHONE,SE 16gb,128.08, 72,16,2.0,1136-by-640-pixel,4.0,Gold White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+310,APPLE,iPhone 7,699.99,no sale,32,2.0,1080 x 1920,5.5,Gold White.,Apple A10 Fusion,7.0,24.0
+311,IPHONE,6s 64gb,209.0, 460,64,2.0,1 334 x 750,4.7,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+312,APPLE,iPhone XS,1500.0,no sale,256,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
+313,APPLE,iPhone 8,879.0,no sale,256,3.0,1920 x 1080,5.5,Gold,Apple A11 Bionic,7.0,12.0
+314,APPLE,iPhone XS,834.15, 39,256,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+315,APPLE,iPhone XS,1099.95, 200,256,4.0,2436 x 1125,5.8,Gold,Apple A12 Bionic,7.0,24.0
+316,APPLE,iPhone 7,234.04, 156,32,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+317,APPLE,iPhone 8,692.87, 7,256,3.0,1920 x 1080,5.5,Silver,Apple A11 Bionic,7.0,12.0
+318,APPLE,iPhone 6,138.0, 261,16,1.0,1 334 x 750,4.7,Gold; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+319,APPLE,Iphone 5C,90.0,no sale,8,1.0,1 334 x 750,4.0,Gold; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+320,APPLE,iPhone 7,429.19, 271,32,1.0,1 334 x 750,4.0,ROSE GOLD,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+321,APPLE,iPhone 7,229.0, 471,32,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+322,APPLE,iPhone XS,999.99, 300,32,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+323,APPLE,iPhone X,644.99, 355,256,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+324,APPLE,iPhone 6s,179.99,no sale,16,2.0,1334 x 750,4.7,Silver,Apple A9,0.72,12.0
+325,APPLE,iPhone 7,286.05, 314,128,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+326,APPLE,iPhone 7,499.98,no sale,128,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+327,APPLE,iPhone 6s,184.0, 46,32,2.0,1334 x 750,4.7,Space Gray,Apple A9,0.72,12.0
+328,APPLE,iPhone XS,1300.0,no sale,256,4.0,2688 x 1242,6.5,Space Gray,Apple A12 Bionic,7.0,24.0
+329,APPLE,iPhone 6,168.88, 81,32,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+330,APPLE,iPhone XR,599.99, 100,64,3.0,1792 x 828,6.1,Coral,Apple A12 Bionic,7.0,12.0
+331,APPLE,iPhone XS,1199.0,no sale,256,4.0,2436 x 1125,5.8,Silver,Apple A12 Bionic,7.0,24.0
+332,APPLE,iPhone 5S,99.99, 80,16.0,4.0,2436 x 1125,5.8,Silver,Apple A12 Bionic,7.0,24.0
+333,APPLE,iPhone 11,1199.99,no sale,128,4.0,828 x 1792,6.1,Green,Apple A13 Bionic,12.0,12.0
+334,APPLE,iPhone XS,1000.0,no sale,64,4.0,2436 x 1125,5.8,Green,Apple A12 Bionic,7.0,24.0
+335,APPLE,iPhone XS,1259.99,no sale,256,4.0,2436 x 1125,5.8,Gold,Apple A12 Bionic,7.0,24.0
+336,IPHONE,6s 64gb,199.98, 120,64,2.0,1 334 x 750,4.7,Rose Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+337,UNLOCKED,iPhone 5s,99.98, 50,64,2.0,1 334 x 750,4.7,Rose Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+338,IPHONE,X 64GB,695.05, 704,64,2.0,1 334 x 750,5.8,Rose Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+339,APPLE,iPhone XS,834.15, 39,256,4.0,2436 x 1125,5.8,Gold,Apple A12 Bionic,7.0,24.0
+340,APPLE,iPhone 7,639.99, 260,128,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+341,APPLE,iPhone 7,336.06, 164,128,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+342,APPLE,iPhone X,834.15, 39,256,3.0,2436 x 1125,5.8,Space Gray,Apple A11 Bionic,7.0,12.0
+343,APPLE,iPhone 7,369.98, 130,128,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+344,APPLE,iPhone 6s,266.95,no sale,128,2.0,1334 x 750,4.7,Silver,1.84GHz,7.0,12.0
+345,APPLE,iPhone 8,499.99, 100,128,2.0,1334 x 750,4.7,Silver,1.84GHz,7.0,12.0
+346,APPLE,iPhone 7,349.98, 50,128,2.0,1080 x 1920,4.7,Rose Gold,Apple A10 Fusion,7.0,24.0
+347,APPLE,iPhone 6s,289.98,no sale,64,2.0,1920 x 1080,5.5,Rose Gold,Apple A9,0.72,12.0
+348,OPEN,Box Unlocked,299.99,no sale,64,2.0,1920 x 1080,4.7,Rose Gold,Apple A9,0.72,12.0
+349,APPLE,iPhone 8,569.89, 330,64,3.0,1920 x 1080,5.5,Gold,Apple A11 Bionic,7.0,12.0
+350,APPLE,iPhone XS,1469.0,no sale,64,4.0,2436 x 1125,5.8,Silver,Apple A12 Bionic,7.0,24.0
+351,APPLE,iPhone X,700.0, 300,64,3.0,2436 x 1125,5.8,Space Gray,Apple A11 Bionic,7.0,12.0
+352,APPLE,iPhone XR,659.0, 240,128,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+353,APPLE,iPhone 8,692.99, 187,256,3.0,1920 x 1080,5.5,Red,Apple A11 Bionic,7.0,12.0
+354,APPLE,iPhone 6s,169.99, 140,32,2.0,1334 x 750,4.7,Space Gray,Apple A9,0.72,12.0
+355,APPLE,iPhone XR,619.0, 180,64,3.0,1792 x 828,6.1,Yellow,Apple A12 Bionic,7.0,12.0
+356,APPLE,iPhone 8,506.29, 80,64,3.0,1920 x 1080,5.5,Gold,Apple A11 Bionic,7.0,12.0
+357,IPHONE,6s 128gb,244.95, 151,128,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+358,APPLE,iPhone 7,248.0, 182,128,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+359,APPLE,iPhone 6,249.08, 201,64,1.0,1920-by-1080-pixel,5.5,Gold; White.,A8 chip with 64-bit architecture; M8 motion coprocessor.,1.2,8.0
+360,APPLE,iPhone 7,262.0, 432,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+361,APPLE,iPhone 8,369.99, 430,256,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+362,APPLE,iPhone XS,1300.0,no sale,64,4.0,2688 x 1242,6.5,Silver,Apple A12 Bionic,7.0,24.0
+363,APPLE,iPhoneSE 128gb,219.88, 80,128,2.0,1136-by-640-pixel,4.0,Gold White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+364,APPLE,iPhone SE,128.0, 2,16,2.0,640 x 1136,4.0,Silver,Dual-core 1.84 GHz Twister,1.2,12.0
+365,APPLE,iPhone 5s,109.24, 217,16,2.0,640 x 1136,4.0,Silver,Dual-core 1.84 GHz Twister,1.2,12.0
+366,APPLE,iPhone 7,499.99, 200,128,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+367,APPLE,iPhone 6s,249.99,no sale,16,2.0,1920 x 1080,5.5,Gold,Apple A9,0.72,12.0
+368,APPLE,iPhone X,675.99, 204,64,3.0,2436 x 1125,5.8,Space Gray,Apple A11 Bionic,7.0,12.0
+369,IPHONE,5s 32gb,138.36, 208,32,1.0,1136-by-640-pixel,4.0,Silver; White.,A7 chip with 64-bit architecture,1.2,8.0
+370,IPHONE,5s 16gb,109.89, 216,16,1.0,1136-by-640-pixel,4.0,Silver; White.,A7 chip with 64-bit architecture,1.2,8.0
+371,APPLE,iPhone 6s,196.0, 3,32,2.0,1334 x 750,4.7,Gold,1.84GHz,1.2,12.0
+372,APPLE,iPhone 8,584.97, 165,32,2.0,1920 x 1080,4.7,Space Grey,1.84GHz,7.0,12.0
+373,APPLE,iPhone XR,924.0, 375,256,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+374,APPLE,iPhone XS,854.99, 145,512,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+375,IPHONE,6 PLUS,299.95, 50,16,4.0,1920 x 1080,5.8,Silver,A8 chip with 64-bit architecture M8 motion coprocessor,7.0,8.0
+376,APPLE,iPhone XS,999.0, 260,64,4.0,2436 x 1125,5.8,Gold,Apple A12 Bionic,7.0,24.0
+377,APPLE,iPhone XS,935.0, 444,64,4.0,2436 x 1125,5.8,Silver,Apple A12 Bionic,7.0,24.0
+378,APPLE,iPhone 8,639.98, 160,256,3.0,1920 x 1080,5.5,Grey,Apple A11 Bionic,7.0,12.0
+379,APPLE,iPhone 6,138.88, 161,256,3.0,1920 x 1080,5.5,Grey,Apple A11 Bionic,7.0,12.0
+380,APPLE,iPhone 6,199.89, 156,128,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+381,APPLE,iPhone 6,188.95, 161,128,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+382,APPLE,iPhone X,874.1, 525,128,1.0,2436 x 1125,4.7,Space Grey,Apple A8,7.0,12.0
+383,APPLE,iPhone 7,298.98, 101,32,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+384,APPLE,iPhone SE,149.68, 150,32,2.0,1136 x 640,4.0,Gold,Apple A9,0.72,12.0
+385,REFURBISHED,- iPhone,89.98, 80,32,2.0,1136 x 640,4.0,Gold,Apple A9,0.72,12.0
+386,APPLE,iPhone 7,296.99, 114,256,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+387,IPHONE,SE 16gb,126.98, 173,16,2.0,1136-by-640-pixel,4.0,Rose; White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+388,APPLE,iPhone 8,409.99, 390,64,2.0,1136-by-640-pixel,4.7,Space Gray,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+389,REFURBISHED,- Apple,125.0, 275,64,2.0,1136-by-640-pixel,4.7,Space Gray,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+390,APPLE,iPhone 6s,329.98,no sale,16,2.0,1 334 x 750,4.7,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+391,IPHONE,7 128gb,348.88, 251,128,2.0,1334-by-750-pixel,4.7,Rose; White.,A10 Fusion chip with 64-bit architecture;    Embedded M10 motion coprocessor.,7.0,12.0
+392,APPLE,iPhoneSE 16gb,149.68, 100,16,2.0,1136-by-640-pixel,4.0,Silver; White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+393,IPHONE,7 Plus,388.98, 111,32,2.0,1920-by-1080-pixel,5.5,Gold; White.,A10 Fusion chip with 64-bit architecture;    Embedded M10 motion coprocessor.,7.0,12.0
+394,IPHONE,6s Plus,267.07, 133,16,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+395,APPLE,iPhone7 128gb,362.18, 128,128,2.0,1334-by-750-pixel,4.7,Gold; White.,A10 Fusion chip with 64-bit architecture;    Embedded M10 motion coprocessor.,7.0,12.0
+396,APPLE,iPhone7Plus 32gb,388.98, 111,32,2.0,1920-by-1080-pixel,5.5,Rose; White.,A10 Fusion chip with 64-bit architecture;    Embedded M10 motion coprocessor.,7.0,12.0
+397,IPHONE,6 PLUS,288.68, 211,128,2.0,1920 x 1080,5.5,Gray,A8 chip with 64-bit architecture M8 motion coprocessor,7.0,8.0
+398,APPLE,iPhone SE,299.0,no sale,64,2.0,1136 x 640,5.5,Rose,A8 chip with 64-bit architecture M8 motion coprocessor,7.0,8.0
+399,IPHONE,4S 8GB,90.0,no sale,64,2.0,1136 x 640,5.5,Rose,A8 chip with 64-bit architecture M8 motion coprocessor,7.0,8.0
+400,REFURBISHED,- Apple,999.0,no sale,64,2.0,1136 x 640,5.5,Rose,A8 chip with 64-bit architecture M8 motion coprocessor,7.0,8.0
+401,REFURBISHED,- Apple,1099.0,no sale,64,2.0,1136 x 640,5.5,Rose,A8 chip with 64-bit architecture M8 motion coprocessor,7.0,8.0
+404,APPLE,iPhone 7,600.0,no sale,256,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+405,REFURBISHED,- Apple,259.98, 90,256,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+406,APPLE,iPhone 7,399.98, 200,128,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+407,REFURBISHED,- Apple,169.99, 30,128,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+408,APPLE,iPhone SE,129.98, 70,16,2.0,1080 x 1920,4.0,ROSE GOLD,Apple A10 Fusion,7.0,24.0
+409,APPLE,iPhone 6,359.0,no sale,16,1.0,1080 x 1920,4.7,Space Grey,Apple A10 Fusion,7.0,24.0
+410,APPLE,iPhone 7,499.0,no sale,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+411,APPLE,iPhone 6S,319.98, 80,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+412,APPLE,iPHONE 6S,429.0,no sale,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+413,APPLE,iPHONE 6,399.0,no sale,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+414,APPLE,iPHONE 6S,329.98, 170,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+415,REFURBISHED,- Apple,1099.0,no sale,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+416,REFURBISHED,- Apple,389.99,no sale,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+417,APPLE,iPhone 7,385.99, 110,32,3.0,1080 x 1920,5.5,Red,Apple A10 Fusion,7.0,24.0
+418,APPLE,iPhone 7,340.99, 209,256,2.0,750 x 1334,4.7,Jet Black,Apple A10 Fusion,7.0,12.0
+419,REFURBISHED,- Apple,288.88, 111,256,2.0,750 x 1334,4.7,Jet Black,Apple A10 Fusion,7.0,12.0
+420,APPLE,iPhone 8,384.99, 165,64,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+421,IPHONE,6-16GB Built,275.0,no sale,16,2.0,1334 x 750,4.7,black & White,Apple A11 Bionic,7.0,12.0
+422,REFURBISHED,- Apple,1099.0,no sale,16,2.0,1334 x 750,4.7,black & White,Apple A11 Bionic,7.0,12.0
+423,APPLE,iPhone XR,802.99, 147,256,3.0,1792 x 828,6.1,Yellow,Apple A12 Bionic,7.0,12.0
+424,APPLE,iPhone XR,670.99, 249,64,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+425,REFURBISHED,- Apple,399.99,no sale,64,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+426,REFURBISHED,- Apple,199.99, 50,64,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+427,REFURBISHED,- Apple,199.98,no sale,64,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+428,REFURBISHED,- Apple,349.0,no sale,64,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+429,REFURBISHED,- Apple,249.98,no sale,64,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+430,APPLE,iPhone XR,719.99, 330,128,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+431,APPLE,iPhone SE,159.98, 90,16,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+432,APPLE,iPhone 7,599.0,no sale,32,3.0,1080 x 1920,5.5,Jet Black,Apple A10 Fusion,7.0,24.0
+433,APPLE,iPhone XR,934.99, 110,256,3.0,1792 x 828,6.1,Yellow,Apple A12 Bionic,7.0,12.0
+434,APPLE,iPhone XR,670.99, 249,64,3.0,1792 x 828,6.1,Coral,Apple A12 Bionic,7.0,12.0
+435,REFURBISHED,- Apple,329.98, 70,64,3.0,1792 x 828,6.1,Coral,Apple A12 Bionic,7.0,12.0
+436,APPLE,iPhone 7,311.99, 184,256,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+437,REFURBISHED,- Apple,499.0,no sale,256,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+438,APPLE,iPhone 7,398.68, 301,128,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+439,APPLE,iPhone 6s,279.98, 120,32,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+440,APPLE,iPhone 6S,329.0,no sale,32,2.0,1334 x 750,4.7,Silver,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+441,APPLE,iPhone 6S,699.99,no sale,32,2.0,1334 x 750,4.7,Silver,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+442,IPHONE,SE -,299.0,no sale,16,2.0,1334 x 750,4.0,Space Grey,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+443,APPLE,iPhone 6S,849.99,no sale,16,2.0,1334 x 750,4.0,Space Grey,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+444,IPHONE,SE 16GB,249.0,no sale,16,2.0,1334 x 750,3.5,Space Grey,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+445,IPHONE,5S-16GB Built,129.0,no sale,16,2.0,1334 x 750,3.5,black & White,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+446,APPLE,iPhone 7,335.95, 91,16,2.0,1334 x 750,3.5,black & White,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+447,REFURBISHED,- Apple,999.0,no sale,16,2.0,1334 x 750,3.5,black & White,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+448,APPLE,iPhone 7,599.0,no sale,128,3.0,1080 x 1920,5.5,Jet Black,Apple A10 Fusion,7.0,24.0
+449,REFURBISHED,- Apple,449.99, 100,128,3.0,1080 x 1920,5.5,Jet Black,Apple A10 Fusion,7.0,24.0
+450,IPHONE,6S Plus,339.0, 60,32,3.0,1080 x 1920,5.5,Jet Black,Apple A10 Fusion,7.0,24.0
+451,IPHONE,5S 16GB,139.0, 60,16,3.0,1080 x 1920,3.5,Jet Black,Apple A10 Fusion,7.0,24.0
+452,IPHONE,6S Plus,369.0, 30,32,3.0,1080 x 1920,5.5,Jet Black,Apple A10 Fusion,7.0,24.0
+453,IPHONE,6S 64GB,359.0,no sale,64,3.0,1080 x 1920,4.7,Jet Black,Apple A10 Fusion,7.0,24.0
+454,APPLE,iPhone 6s,298.68, 101,32,2.0,1920 x 1080,5.5,Gold,Apple A9,0.72,12.0
+455,IPHONE,SE 64GB,279.0,no sale,64,2.0,1920 x 1080,3.5,Gold,Apple A9,0.72,12.0
+456,IPHONE,6 Plus,399.0,no sale,64,2.0,1920 x 1080,5.5,Gold,Apple A9,0.72,12.0
+457,APPLE,iPhone 5S,199.0,no sale,16.0,2.0,1920 x 1080,5.5,Gold,Apple A9,0.72,12.0
+458,APPLE,iPhone 7,318.99, 177,128,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+459,IPHONE,SE 64GB,279.0,no sale,64,2.0,750 x 1334,3.5,Black,Apple A10 Fusion,7.0,12.0
+460,IPHONE,6S Plus,359.0, 80,64,2.0,750 x 1334,5.5,Black,Apple A10 Fusion,7.0,12.0
+461,IPHONE,6 128GB,289.0, 60,128,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+462,IPHONE,6 Plus,399.0,no sale,128,2.0,750 x 1334,5.5,Black,Apple A10 Fusion,7.0,12.0
+463,IPHONE,6 16GB,299.0,no sale,16,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+464,IPHONE,6S Plus,379.0,no sale,16,2.0,750 x 1334,5.5,Black,Apple A10 Fusion,7.0,12.0
+465,APPLE,iPhone XS,1277.99, 432,512,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+466,APPLE,iPhone 7,499.0, 251,128,2.0,750 x 1334,4.7,Jet Black,Apple A10 Fusion,7.0,12.0
+467,IPHONE,6S Plus,429.0, 40,128,2.0,750 x 1334,5.5,Jet Black,Apple A10 Fusion,7.0,12.0
+468,IPHONE,6S Plus,359.0, 80,64,2.0,750 x 1334,5.5,Jet Black,Apple A10 Fusion,7.0,12.0
+469,APPLE,iPhone 6s,295.0, 55,32,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+470,APPLE,iPhone XR,735.99, 214,128,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+471,APPLE,iPhone 7,411.99, 138,32,3.0,1080 x 1920,5.5,Red,Apple A10 Fusion,7.0,24.0
+472,APPLE,iPhone 7,340.99, 209,256,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+473,APPLE,iPhone XR,758.99, 191,64,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+474,REFURBISHED,- Apple,379.99,no sale,64,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+475,REFURBISHED,- Apple,299.0,no sale,64,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+476,APPLE,iPhone 7,296.99, 124,256,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+477,APPLE,iPhone 8,692.99, 187,256,3.0,1920 x 1080,5.5,Grey,Apple A11 Bionic,7.0,12.0
+478,IPHONE,6 Plus,399.0,no sale,64,3.0,1920 x 1080,5.5,Grey,Apple A11 Bionic,7.0,12.0
+479,APPLE,iPhone 5,179.0,no sale,16.0,3.0,1920 x 1080,5.5,Black,Apple A11 Bionic,7.0,12.0
+480,IPHONE,6 Plus,399.0, 50,128,3.0,1920 x 1080,5.5,Black,Apple A11 Bionic,7.0,12.0
+481,IPHONE,6 64GB,329.0,no sale,64,3.0,1920 x 1080,4.7,Black,Apple A11 Bionic,7.0,12.0
+482,IPHONE,6 16GB,299.0,no sale,16,3.0,1920 x 1080,4.7,Black,Apple A11 Bionic,7.0,12.0
+483,APPLE,iPhone 7,448.99, 251,128.0,3.0,1920 x 1080,4.7,Gold,Apple A11 Bionic,7.0,12.0
+484,IPHONE,6S 128GB,299.0, 100,128,3.0,1920 x 1080,4.7,Gold,Apple A11 Bionic,7.0,12.0
+485,APPLE,iPhone SE,168.89,no sale,64,2.0,1136 x 640,4.0,Gold,Apple A9,0.72,12.0
+486,IPHONE,6S 128GB,399.0,no sale,128,2.0,1136 x 640,4.7,Gold,Apple A9,0.72,12.0
+487,IPHONE,6 Plus,349.0,no sale,16,2.0,1136 x 640,5.5,Gold,Apple A9,0.72,12.0
+488,IPHONE,6S 64GB,359.0,no sale,64,2.0,1136 x 640,4.7,Gold,Apple A9,0.72,12.0
+490,APPLE,iPhone 6,392.95, 93,64,1.0,1920 x 1080,5.5,Silver,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+491,APPLE,iPHONE SE,299.0,no sale,64,1.0,1920 x 1080,5.5,Silver,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+492,APPLE,iPHONE SE,169.68, 80,64,1.0,1920 x 1080,5.5,Silver,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+494,APPLE,iPhone 6s,529.99,no sale,128,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+495,IPHONE,6 Plus,349.0,no sale,16,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+496,APPLE,iPhone 8,899.0,no sale,256,3.0,1920 x 1080,5.5,Silver,Apple A11 Bionic,7.0,12.0
+497,APPLE,iPhone 7,299.99, 111,128,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+498,IPHONE,6 64GB,329.0,no sale,64,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+499,APPLE,iPhone 6s,189.99, 110,32,2.0,1334 x 750,4.7,Space Gray,Apple A9,0.72,12.0
+500,APPLE,iPhone 7,600.0,no sale,256,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+501,APPLE,iPhone 8,458.99, 201,256,2.0,1334 x 750,4.7,Red,Apple A11 Bionic,7.0,12.0
+502,APPLE,iPhone SE,199.0,no sale,16,2.0,1136 x 640,4.0,Space gray,Apple A9,0.72,12.0
+503,APPLE,iPhone XR,934.99, 110,256,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+504,APPLE,iPhone XR,881.99,no sale,128,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+505,REFURBISHED,- Apple,1199.0,no sale,128,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+506,APPLE,iPhone 8,729.0,no sale,256,2.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+507,APPLE,iPhone X,741.99, 138,64,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+508,APPLE,iPhone 7,384.99, 165,128,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+509,APPLE,iPhone XR,934.99, 110,256,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+510,APPLE,iPhone 8,439.99, 110,64,2.0,1334 x 750,4.7,Red,Apple A11 Bionic,7.0,12.0
+511,REFURBISHED,- Apple,1099.0,no sale,64,2.0,1334 x 750,4.7,Red,Apple A11 Bionic,7.0,12.0
+512,APPLE,iPhone 8,584.99, 215,64,3.0,1920 x 1080,5.5,Red,Apple A11 Bionic,7.0,12.0
+513,APPLE,iPhone 7,296.99, 124,256,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+514,APPLE,iPhone 7,439.99, 110,128,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+515,APPLE,iPhone 7,439.99, 110,128,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+516,APPLE,iPhone 7,411.99, 138,32,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+517,APPLE,iPhone XR,758.99, 161,64,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+518,APPLE,iPhone 7,356.99, 64,32,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+519,APPLE,iPhone 6,199.95, 300,128,1.0,1334 x 750,4.7,Silver,Apple A8,1.2,8.0
+520,APPLE,iPhone 8,626.99, 143,64,3.0,1920 x 1080,5.5,Red,Apple A11 Bionic,7.0,12.0
+521,APPLE,iPhone XR,875.99, 169,256,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+522,APPLE,iPhone 7,340.99, 209,256,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+523,REFURBISHED,- Apple,299.0,no sale,256,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+524,APPLE,iPHONE 6S,279.0,no sale,256,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+526,IPHONE,6S Plus,339.0, 60,32,2.0,750 x 1334,5.5,Black,Apple A10 Fusion,7.0,12.0
+527,IPHONE,5S 64GB,199.0, 50,64,2.0,750 x 1334,3.5,Black,Apple A10 Fusion,7.0,12.0
+528,IPHONE,6S 16GB,299.0,no sale,16,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+529,APPLE,iPhone 7,295.99, 200,128,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+530,IPHONE,6 Plus,399.0, 50,128,2.0,750 x 1334,5.5,Silver,Apple A10 Fusion,7.0,12.0
+531,IPHONE,6S Plus,289.0, 49,32,2.0,750 x 1334,5.5,Silver,Apple A10 Fusion,7.0,12.0
+532,IPHONE,6 Plus,399.0,no sale,64,2.0,750 x 1334,5.5,Silver,Apple A10 Fusion,7.0,12.0
+533,IPHONE,6 Plus,349.0,no sale,16,2.0,750 x 1334,5.5,Silver,Apple A10 Fusion,7.0,12.0
+535,IPHONE,6S 64GB,359.0,no sale,64,3.0,1920 x 1080,4.7,Silver,Apple A11 Bionic,7.0,12.0
+536,APPLE,iPhone 7,384.99, 111,128,3.0,1080 x 1920,5.5,Red,Apple A10 Fusion,7.0,24.0
+537,IPHONE,SE 16GB,249.0,no sale,16,3.0,1080 x 1920,3.5,Red,Apple A10 Fusion,7.0,24.0
+538,IPHONE,6S Plus,399.0, 40,64,3.0,1080 x 1920,5.5,Red,Apple A10 Fusion,7.0,24.0
+539,APPLE,iPhone SE,192.95, 107,32,2.0,1136 x 640,4.0,Space gray,Apple A9,0.72,12.0
+540,APPLE,iPhone SE,179.95, 320,64,2.0,1136 x 640,4.0,Gold,Apple A9,0.72,12.0
+541,APPLE,iPhone 7,296.99, 124,256,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+542,APPLE,iPhone XR,824.99, 110,128,3.0,1792 x 828,6.1,Yellow,Apple A12 Bionic,7.0,12.0
+543,APPLE,iPhone XR,934.99, 110,256,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+544,APPLE,iPhone 7,356.99, 84,32,3.0,1080 x 1920,5.5,Jet Black,Apple A10 Fusion,7.0,24.0
+545,APPLE,iPhone 7,340.99, 155,256,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+546,APPLE,iPhone 7,252.99, 50,32,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+547,IPHONE,6S-16GB Built,325.0,no sale,16,2.0,750 x 1334,4.7,black & White,Apple A10 Fusion,7.0,12.0
+548,IPHONE,6S pLus-16GB,399.0,no sale,16,2.0,750 x 1334,4.7,black,Apple A10 Fusion,7.0,12.0
+549,APPLE,iPhone XR,737.99, 197,128,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+550,REFURBISHED,- Apple,1199.0,no sale,128,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+551,APPLE,iPhone XR,758.99, 191,64,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+552,APPLE,iPhone 7,368.08, 132,128,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+553,APPLE,iPhone 8,494.99, 165,256,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+554,APPLE,iPhone 7,318.99, 131,256,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+555,IPHONE,6 Plus-16GB,325.0,no sale,16,2.0,750 x 1334,4.7,black & White,Apple A10 Fusion,7.0,12.0
+556,APPLE,iPhone SE,289.0,no sale,16,2.0,750 x 1334,4.7,black & White,Apple A10 Fusion,7.0,12.0
+565,IPHONE,6s Plus,289.98, 210,16,2.0,1 334 x 750,4.7,Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+566,APPLE,iPhone7 128gb,394.48, 106,128,2.0,1334-by-750-pixel,4.7,Rose; White.,A10 Fusion chip with 64-bit architecture;    Embedded M10 motion coprocessor.,7.0,12.0
+567,IPHONE,SE 16gb,128.88, 171,16,2.0,1136-by-640-pixel,4.0,Silver; White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+568,IPHONE,SE 64gb,179.98, 120,64,2.0,1136-by-640-pixel,4.0,Gold White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+569,APPLE,iPhone 7,449.99, 100,32,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+570,APPLE,iPHONE 6S,399.0,no sale,32,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+571,APPLE,iPHONE 6,299.0,no sale,32,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+572,APPLE,iPhone 6S,749.99,no sale,32,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+573,APPLE,iPhone 6S,295.95,no sale,32,3.0,1080 x 1920,4.7,Black,Apple A10 Fusion,7.0,24.0
+577,APPLE,iPhone 7,658.95, 47,256,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+578,IPHONE,7 -,418.71,no sale,32,3.0,1334 x 750,4.7,Rose Gold,Apple A10 Fusion,7.0,24.0
+579,REFURBISHED,- Apple,1099.0,no sale,32,3.0,1334 x 750,4.7,Rose Gold,Apple A10 Fusion,7.0,24.0
+580,APPLE,iPhone 7,356.99, 139,32,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+581,APPLE,iPhone 7,380.99, 169,32,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+582,APPLE,iPhone 7,310.99, 239,256,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+583,IPHONE,6S 16GB,299.0,no sale,16,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+584,IPHONE,5S 16GB,199.0,no sale,16,2.0,750 x 1334,3.5,Red,Apple A10 Fusion,7.0,12.0
+585,APPLE,iPhone XR,934.99, 110,256,3.0,1792 x 828,6.1,Coral,Apple A12 Bionic,7.0,12.0
+586,APPLE,iPhone SE,199.0,no sale,16,2.0,1136 x 640,4.0,Silver,Apple A9,0.72,12.0
+587,APPLE,iPhone XS,849.94, 250,16,2.0,2436 x 1125,4.0,Gold,Apple A9,7.0,24.0
+588,APPLE,iPhone 6,228.94, 671,16,2.0,1920 x 1080,4.0,Space Grey,Apple A9,1.2,8.0
+589,APPLE,iPhone 5S,180.0,no sale,16,2.0,1920 x 1080,4.0,Space Grey,Apple A9,1.2,8.0
+590,APPLE,iPhone 5C,150.0,no sale,16,2.0,1920 x 1080,4.0,Space Grey,Apple A9,1.2,8.0
+591,APPLE,iPhone 8,799.0,no sale,64,3.0,1920 x 1080,5.5,Silver,Apple A11 Bionic,7.0,12.0
+592,APPLE,iPhone 6s,318.88, 181,16,2.0,1 334 x 750,4.7,Rose Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+593,APPLE,iPhone 6s,268.68, 131,16,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+594,APPLE,iPhone 6,299.98,no sale,16,1.0,1334 x 750,4.7,Gold,1.4GHz,5.0,8.0
+595,APPLE,iPhone 6S,549.99,no sale,16,1.0,1334 x 750,4.7,Gold,1.4GHz,5.0,8.0
+596,APPLE,iPhone 6,299.98, 200,64,1.0,1920-by-1080-mixel,5.5,Gold; White.,A8 chip with 64-bit architecture; M8 motion coprocessor.,1.2,8.0
+597,APPLE,iPhone 6s,399.98,no sale,32,2.0,1 334 x 750,4.7,Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+598,APPLE,iPhone 6s,499.99,no sale,32,2.0,1 334 x 750,4.7,Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+599,IPHONE,5S -,199.0,no sale,16,2.0,1 334 x 750,4.0,Space Grey,A9 chip with 64-bit&nbsp;architecture,5.0,8.0
+600,APPLE,iPhone 6S,369.0,no sale,64,2.0,1334 x 750,4.7,Gold,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+601,APPLE,iPhone SE,289.0,no sale,32,2.0,1136 x 640,4.7,Rose,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+602,APPLE,iPhone SE,188.98, 161,32,2.0,1136 x 640,4.7,Gray,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+603,APPLE,iPhone 6,339.98, 160,32,2.0,1136 x 640,4.7,Gray,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+604,IPHONE,6 16gb,137.58, 162,16,1.0,1 334 x 750,4.7,Gold; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+605,IPHONE,SE 16gb,249.98,no sale,16,2.0,1136-by-640-pixel,4.0,Gold White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+606,IPHONE,7 Plus,699.98,no sale,256,2.0,1920-by-1080-pixel,5.5,Gold; White.,A10 Fusion chip with 64-bit architecture;    Embedded M10 motion coprocessor.,7.0,12.0
+607,APPLE,iPhone SE,169.98, 130,256,2.0,1136 x 640,4.0,Rose Gold,Dual-core 1.84 GHz Twister,1.2,12.0
+608,APPLE,IPHONE 6S,195.0,no sale,256,2.0,1136 x 640,4.0,Rose Gold,Dual-core 1.84 GHz Twister,1.2,12.0
+609,APPLE,iPhone SE,259.0,no sale,16,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+610,APPLE,iPhone 6S,229.99, 39769,16,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+611,APPLE,iPhone 6s,288.92, 211,16,2.0,1920 x 1080,4.0,Gold,Apple A9,5.0,12.0
+612,APPLE,iPhone 6s,389.99,no sale,32,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+613,IPHONE,6S Plus,429.0, 40,128,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+614,IPHONE,6S 16GB,199.68, 150,16,2.0,1920 x 1080,4.7,Space Gray,Apple A9,0.72,12.0
+615,IPHONE,6S 32GB,349.0,no sale,32,2.0,1920 x 1080,4.7,Space Gray,Apple A9,0.72,12.0
+616,APPLE,iPhone 7,550.0,no sale,32,2.0,750 x 1334,4.7,Space Gray,Apple A9,0.72,12.0
+617,IPHONE,6S 16GB,299.0,no sale,16,2.0,750 x 1334,4.7,Space Gray,Apple A9,0.72,12.0
+618,APPLE,iPhone SE,349.0,no sale,128,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+619,IPHONE,6S 32GB,349.0,no sale,32,2.0,1136 x 640,4.7,Rose Gold,Apple A9,0.72,12.0
+620,IPHONE,SE 64GB,279.0,no sale,64,2.0,1136 x 640,3.5,Rose Gold,Apple A9,0.72,12.0
+621,IPHONE,6 64GB,199.98,no sale,64,2.0,1136 x 640,4.7,Rose Gold,Apple A9,0.72,12.0
+622,IPHONE,6S Plus,379.0,no sale,16,2.0,1136 x 640,5.5,Rose Gold,Apple A9,0.72,12.0
+623,IPHONE,6S Plus,359.0, 90,64,2.0,1136 x 640,5.5,Rose Gold,Apple A9,0.72,12.0
+624,IPHONE,7 256GB,499.0,no sale,256,2.0,1136 x 640,4.7,Rose Gold,Apple A9,0.72,12.0
+625,APPLE,iPhone 8,694.99, 185,256,3.0,1920 x 1080,5.5,Gold,Apple A11 Bionic,7.0,12.0
+626,IPHONE,SE 16GB,249.0,no sale,16,3.0,1920 x 1080,3.5,Gold,Apple A11 Bionic,7.0,12.0
+627,IPHONE,6 128GB,289.0, 60,128,3.0,1920 x 1080,4.7,Gold,Apple A11 Bionic,7.0,12.0
+628,APPLE,iPhone 7,579.0,no sale,32,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+629,IPHONE,7 256GB,529.0,no sale,256,3.0,1080 x 1920,4.7,Rose Gold,Apple A10 Fusion,7.0,24.0
+630,IPHONE,6S Plus,379.0,no sale,16,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+631,APPLE,iPhone® 8,699.0, 151,16,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+632,APPLE,iPhone SE,269.97, 130,16,3.0,1136 x 640,5.5,Rose Gold,Apple A10 Fusion,1.2,12.0
+633,APPLE,iPhone XS,899.99, 200,16,3.0,2436 x 1125,5.5,Silver,Apple A10 Fusion,7.0,24.0
+634,APPLE,iPhone 6s,329.98, 120,16,2.0,2436 x 1125,5.5,Space Grey,Apple A9,5.0,12.0
+635,APPLE,iPhone 7,490.0, 59,256,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+636,APPLE,iPhone 6,298.0, 101,256,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+637,APPLE,iPhone 6s,209.95, 260,32,2.0,1334 x 750,4.7,Silver,Apple A9,0.72,12.0
+639,APPLE,iPhone SE,149.98, 100,32,2.0,1136 x 640,4.0,Space gray,Apple A9,0.72,12.0
+640,IPHONE,6s Plus,283.08, 167,16,2.0,1 334 x 750,4.7,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+641,APPLE,iPhone 6S,299.0,no sale,16,2.0,1334 x 750,4.7,Gold,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+642,APPLE,iPhone 6S,299.0,no sale,16,2.0,1334 x 750,4.7,Rose Gold,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+643,APPLE,iPhone 8,459.99, 200,256,2.0,1334 x 750,4.7,Red,Apple A11 Bionic,7.0,12.0
+644,APPLE,iPhone 6s,599.0,no sale,128,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+645,APPLE,iPhone 6s,449.0,no sale,64,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+646,APPLE,iPhone 6s,209.99,no sale,128,2.0,1334 x 750,4.7,Gold,Apple A9,0.72,12.0
+647,APPLE,iPhone 6,198.88, 121,16,1.0,1920 x 1080,5.5,Space Gray,Apple A8,1.2,8.0
+648,APPLE,iPhone 7,411.99, 138,32,3.0,1080 x 1920,5.5,Jet Black,Apple A10 Fusion,7.0,24.0
+649,APPLE,iPhone 6,229.99, 70,64,1.0,1920 x 1080,5.5,Space Gray,Apple A8,1.2,8.0
+650,APPLE,iPhone 7,274.99, 136,128,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+651,APPLE,iPhone 7,439.99, 110,128,3.0,1080 x 1920,5.5,Red,Apple A10 Fusion,7.0,24.0
+652,APPLE,iPhone 7,411.99, 138,32,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+653,APPLE,iPhone 6,258.99,no sale,16,1.0,1920 x 1080,5.5,Silver,Apple A8,1.2,8.0
+654,IPHONE,6s 16gb,179.88, 170,16,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+655,APPLE,iPhone 7,399.99, 150,128,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+656,APPLE,iPhone 7,384.99, 111,128,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+657,APPLE,iPhone 7,268.98, 211,128,2.0,750 x 1334,5.5,Rose Gold,Apple A10 Fusion,7.0,12.0
+658,APPLE,iPhone 6s,284.0, 115,128,2.0,1920 x 1080,5.5,Silver,Dual-core 1.84 GHz Twister,5.0,12.0
+659,APPLE,iPhone 6,245.88, 3,128,1.0,1920 x 1080,5.5,Space Gray,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+660,APPLE,iPhone 7,314.95, 94,128,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+661,APPLE,iPhone XR,670.99, 249,64,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+662,APPLE,iPhone XS,1100.0, 300,64,4.0,2436 x 1125,5.8,Gold,Apple A12 Bionic,7.0,24.0
+663,APPLE,iPhone 7,378.95, 116,256,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+664,APPLE,iPhone 7,389.99, 100,256,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+665,APPLE,iPhone 6s,308.95, 181,32,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+666,APPLE,iPhone 6S,289.0, 29,32,2.0,1334 x 750,4.7,Gold,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,0.72,12.0
+667,APPLE,iPhone 5S,100.0,no sale,32,2.0,1334 x 750,4.0,Gold,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,0.72,12.0
+668,APPLE,iPhone 8,409.99, 390,64,2.0,1334 x 750,4.7,Silver,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,0.72,12.0
+669,APPLE,iPhone 6S,308.28, 242,64,2.0,1920 x 1080,5.5,Silver,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,5.0,12.0
+670,APPLE,iPhone 5S,307.93, 38,64,2.0,1136 x 640,5.5,Silver,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,8.0,12.0
+671,APPLE,iPhone 6,299.0,no sale,64,1.0,1334 x 750,4.7,Gold,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,1.2,8.0
+672,APPLE,iPhone XS,903.99, 416,64,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+673,APPLE,iPhone XS,923.99, 451,64,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
+674,APPLE,iPhone 6,379.0,no sale,64,1.0,1920 x 1080,5.5,Space Gray,Apple A8,1.2,8.0
+676,APPLE,iPhone 6,279.0,no sale,16 MB,1.0,1334 x 750,4.7,Silver,Apple A8,1.2,8.0
+677,APPLE,iPhone 6S,159.98, 90,16 MB,2.0,1334 x 750,4.7,Silver,Apple A8,5.0,12.0
+678,APPLE,iPhone SE,259.0,no sale,16 MB,2.0,1136 x 640,4.0,Gold,Apple A8,1.2,12.0
+679,APPLE,iPhone 7,279.99, 131,32,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+680,APPLE,iPhone 7,510.0, 289,256,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+681,APPLE,iPhone 8,524.99, 375,64,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+682,APPLE,iPhone SE,179.95, 320,64,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+683,APPLE,iPhone XS,1299.0,no sale,512,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+684,APPLE,iPhone 6s,258.08, 92,16,2.0,1920 x 1080,5.5,Gold,Apple A9,0.72,12.0
+685,APPLE,iPhone 7,499.99, 99,32,3.0,1080 x 1920,5.5,Red,Apple A10 Fusion,7.0,24.0
+686,APPLE,iPhone 6s,187.77, 62,16,2.0,1334 x 750,4.7,Rose Gold,Apple A9,0.72,12.0
+687,APPLE,iPhone 6,186.83, 62,64,1.0,1 334 x 750,4.7,Silver; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+688,APPLE,IPHONE 5S,123.0,no sale,64,1.0,1 334 x 750,4.7,Silver; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+689,APPLE,iPhone 6s,204.0, 46,64,2.0,1334 x 750,4.7,Silver,Apple A9,0.72,12.0
+690,APPLE,iPhone 6,171.06, 129,64,1.0,1334 x 750,4.7,Silver,Apple A9,1.2,8.0
+691,APPLE,iPhone 6s,209.99,no sale,128,2.0,1334 x 750,4.7,Gold,1.84GHz,8.0,12.0
+693,APPLE,iPhone 6s,209.99,no sale,128,2.0,1 334 x 750,4.7,Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+694,IPHONE,6S 128GB,209.99,no sale,128,2.0,1 334 x 750,4.7,Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+696,APPLE,iPhone 6,199.99, 120,16,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+697,APPLE,iPHONE 6S,309.99, 170,16,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+698,APPLE,Iphone 5S,184.95, 161,16,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+699,APPLE,iPhone 6s,215.99, 224,64,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+700,APPLE,iPhone 6,249.86, 110,64,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+701,APPLE,iPHONE 6,269.99, 138,64,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+702,APPLE,iPHONE 6S,349.99, 190,64,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+703,APPLE,iPHONE 6,257.99, 125,64,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+704,APPLE,iPHONE 6,299.99, 180,64,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+705,APPLE,iPHONE 6S,274.49, 206,64,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+706,REFURBISHED,- Apple,149.95, 150,64,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+707,APPLE,iPhone 7,498.89, 125,256,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+708,IPHONE,6 PLUS,278.46, 91,16,3.0,1920 x 1080,5.5,Gold,A8 chip with 64-bit architecture M8 motion coprocessor,7.0,8.0
+709,APPLE,iPhone 6,269.95, 156,16,3.0,1920 x 1080,5.5,Gold,A8 chip with 64-bit architecture M8 motion coprocessor,7.0,8.0
+710,IPHONE,5s 32gb,138.59, 207,32,1.0,1136-by-640-pixel,4.0,Silver; White.,A7 chip with 64-bit architecture,1.2,8.0
+711,IPHONE,6 Unlocked,237.99,no sale,32,1.0,1920 x 1080,4.7,Space Grey,A7 chip with 64-bit architecture,8.0,8.0
+712,APPLE,iPhone 6s,349.99, 150,32,1.0,1920 x 1080,4.7,Space Grey,A7 chip with 64-bit architecture,8.0,8.0
+713,APPLE,iPhone 7,499.99, 150,256,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+714,APPLE,iPhone XS,849.99, 150,256,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+715,APPLE,iPhone XS,949.99, 50,256,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+716,APPLE,iPhone XS,949.99, 300,256,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+717,APPLE,iPhone XS,949.99, 100,256,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+719,APPLE,iPhone 8,499.99, 100,256,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+720,APPLE,iPhone 7,411.99, 138,32,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+721,APPLE,iPhone 6s,247.98, 202,32,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+722,APPLE,iPhone 6s,225.88, 73,32,2.0,1334 x 750,4.7,Space Grey,Apple A9,5.0,12.0
+723,APPLE,iPhone SE,199.95, 276,16 MB,2.0,1136 x 640,4.0,Silver,Apple A9,1.2,12.0
+724,APPLE,iPHONE 6S,357.0, 93,16 MB,2.0,1136 x 640,4.0,Silver,Apple A9,1.2,12.0
+725,APPLE,iPhone 6s,297.86, 101,16 MB,2.0,1920 x 1080,5.5,Gold,Dual-core 1.84 GHz Twister,5.0,12.0
+726,APPLE,iPhone SE,289.95, 186,16,2.0,1136 x 640,5.5,Silver,Dual-core 1.84 GHz Twister,5.0,12.0
+727,APPLE,iPhone 7,519.54, 180,256,3.0,1080 x 1920,5.5,Red,Apple A10 Fusion,7.0,24.0
+728,APPLE,iPhone SE,169.99, 50,256,2.0,1136 x 640,4.0,Silver,Dual-core 1.84 GHz Twister,1.2,12.0
+729,IPHONE,7 32gb,284.69, 145,32,2.0,1334-by-750-pixel,4.7,Jet Black,A10 Fusion chip with 64-bit architecture;    Embedded M10 motion coprocessor.,7.0,12.0
+730,APPLE,iPhone SE,146.67, 53,32,2.0,1136 x 640,4.0,Gold,Dual-core 1.84 GHz Twister,1.2,12.0
+731,APPLE,iPhone 6s,174.98, 125,16,2.0,1334 x 750,4.7,Space Gray,Apple A9,0.72,12.0
+732,APPLE,iPhone 7,289.69, 110,32,2.0,750 x 1334,4.7,Jet Black,Apple A10 Fusion,7.0,12.0
+733,APPLE,iPhone 7,339.64, 210,256,2.0,750 x 1334,4.7,Jet Black,Apple A10 Fusion,7.0,12.0
+734,APPLE,iPhone 8,739.54, 160,256,3.0,1920 x 1080,5.5,Red,Apple A11 Bionic,7.0,12.0
+735,APPLE,iPhone 7,474.64, 225,256,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+736,APPLE,iPhone 7,284.69, 145,32,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+737,APPLE,iPhone 8,448.94, 351,256,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+738,APPLE,iPhone7 256gb,339.69, 260,256,2.0,1334-by-750-pixel,4.7,Jet Black,A10 Fusion chip with 64-bit architecture;    Embedded M10 motion coprocessor.,7.0,12.0
+739,APPLE,iPhone 6,157.64, 142,256,1.0,1334 x 750,4.7,Gold,1.4GHz,7.0,8.0
+740,APPLE,iPhone SE,153.6, 46,16,2.0,1136 x 640,4.0,Gold,Apple A9,0.72,12.0
+741,APPLE,iPhone 7,429.64, 220,128,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+742,APPLE,iPhone SE,149.54, 70,128,2.0,1136 x 640,4.0,Gold,Dual-core 1.84 GHz Twister,1.2,12.0
+743,APPLE,iPhone 7,334.69, 215,256,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+744,APPLE,iPhone 7,449.54, 150,32,3.0,1080 x 1920,5.5,Jet Black,Apple A10 Fusion,7.0,24.0
+745,APPLE,iPhone 7,339.64, 210,256,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+746,APPLE,iPhone 7,319.64, 180,128,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+747,APPLE,iPhone 8,418.44, 182,64,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+748,APPLE,iPhone 7,339.69, 210,256,2.0,750 x 1334,4.7,Jet Black,Apple A10 Fusion,7.0,12.0
+749,APPLE,iPhone 6,149.95, 320,16,1.0,1334 x 750,4.7,Gold,Apple A8,1.2,8.0
+750,APPLE,iPhone 7,424.54, 175,32,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+751,APPLE,iPhone 6,158.91, 141,32,1.0,1334 x 750,4.7,Silver,1.4GHz,7.0,8.0
+752,APPLE,iPhone 7,338.94, 211,256,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+753,APPLE,iPhone7 Plus,439.69, 260,32,2.0,1920-by-1080-pixel,5.5,Gold; White.,A10 Fusion chip with 64-bit architecture;    Embedded M10 motion coprocessor.,7.0,12.0
+754,APPLE,iPhone 6s,239.54, 160,64,2.0,1334 x 750,4.7,Gold,Apple A9,0.72,12.0
+755,NEW,-Apple iPhone,499.95, 200,128,2.0,1334 x 750,4.7,Gold,Apple A9,0.72,12.0
+756,APPLE,iPhone 7,499.99, 360,128,2.0,1334 x 750,4.7,Gold,Apple A9,0.72,12.0
+757,UNLOCKED,iPhone 5s,139.29, 161,128,2.0,1334 x 750,4.7,Gold,Apple A9,0.72,12.0
+758,APPLE,iPhone 7,459.99, 200,32,2.0,1334 x 750,4.7,GOLD,Apple A9,0.72,12.0
+759,APPLE,iPhone 6s,429.99, 170,64,2.0,1334 x 750,4.7,Space Gray,Apple A9,0.72,12.0
+760,APPLE,iPhone 7,599.99, 200,32,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+761,APPLE,iPhone 7,619.99, 280,128,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+762,NEW,-Apple iPhone,429.99, 230,32,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+763,APPLE,iPhone 7,439.99, 260,32,3.0,1080 x 1920,5.5,WHITE,Apple A10 Fusion,7.0,24.0
+764,APPLE,iPhone SE,109.99, 220,32,2.0,1080 x 1920,4.0,WHITE,Apple A10 Fusion,7.0,24.0
+765,APPLE,iPhone 8,626.99, 143,64,3.0,1920 x 1080,5.5,Silver,Apple A11 Bionic,7.0,12.0
+766,APPLE,iPhone SE,293.95,no sale,64,2.0,1136 x 640,4.0,Gold,Dual-core 1.84 GHz Twister,1.2,12.0
+767,APPLE,iPhone 8,538.49, 362,64,3.0,1920 x 1080,5.5,Grey,Apple A11 Bionic,7.0,12.0
+768,APPLE,iPhone 7,269.99, 230,64,2.0,1920 x 1080,4.7,Grey,Apple A11 Bionic,7.0,12.0
+769,APPLE,iPhone 7,379.99, 220,32,3.0,1080 x 1920,5.5,Red,Apple A10 Fusion,7.0,24.0
+770,APPLE,iPhone 5s,298.95, 47,32,1.0,1136 x 640,4.0,Silver,Dual-core 1.3 GHz Cyclone (ARM v8-based),1.2,8.0
+771,APPLE,iPhone 8,390.9, 408,32,1.0,1 334 x 750,4.0,Silver,Dual-core 1.3 GHz Cyclone (ARM v8-based),1.2,8.0
+772,APPLE,iPhone XS,1199.99, 799,512,4.0,2688 x 1242,6.5,Silver,Apple A12 Bionic,7.0,24.0
+773,APPLE,iPhone 7,399.99, 200,32,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+774,APPLE,iPhone XR,664.99, 215,64,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+775,IPHONE,6s 32gb,184.68, 115,32,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+776,APPLE,iPhone 7,328.23, 149,32,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+777,APPLE,iPhone 6s,244.89, 155,32,2.0,1334 x 750,4.7,Silver,1.84GHz,7.0,12.0
+778,IPHONE,SE 16gb,298.69, 177,16,2.0,1136-by-640-pixel,4.0,Silver; White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+779,APPLE,iPhone 7,429.99, 170,32,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+780,APPLE,iPhone 7,588.95, 111,256,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+781,APPLE,iPhone7 32gb,308.46, 117,32,2.0,1334-by-750-pixel,4.7,Black,A10 Fusion chip with 64-bit architecture;    Embedded M10 motion coprocessor.,7.0,12.0
+782,APPLE,iPhone 6s,234.95, 265,128,2.0,1334 x 750,4.7,Silver,Apple A9,0.72,12.0
+783,APPLE,iPhone 8,410.76, 179,64,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+784,APPLE,iPhone XS,1025.0, 305,256,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+785,APPLE,iPhone 7,398.08, 102,32,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+786,APPLE,iPhone 5s,138.52, 207,32,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+787,APPLE,iPhone 7,408.68, 77,256,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+788,APPLE,iPhone 5s,202.49, 143,256,1.0,1136 x 640,4.0,Space Gray,Dual-core 1.3 GHz Cyclone (ARM v8-based),1.2,8.0
+789,APPLE,iPhone 7,567.14, 144,256,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+790,APPLE,iPhone 6,249.95, 114,256,1.0,1920 x 1080,5.5,Silver,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+791,APPLE,iPhone 6,412.93,no sale,256,1.0,1920 x 1080,5.5,Silver,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+792,APPLE,iPhone 6s,379.89, 33,256,2.0,1920 x 1080,5.5,Rose Gold,Dual-core 1.84 GHz Twister,5.0,12.0
+795,APPLE,iPhone 6s,248.99, 751,16,2.0,1920 x 1080,5.5,Rose Gold,Apple A9,0.72,12.0
+796,APPLE,iPhone 6s,195.0, 35,32,2.0,1334 x 750,4.7,Gold,Apple A9,0.72,12.0
+797,APPLE,iPhone 7,399.99, 100,128,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+798,APPLE,iPhone SE,199.0,no sale,32,2.0,1136-by-640-pixel,4.0,Silver; White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+799,APPLE,iPhone 7,349.99, 200,32,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+800,APPLE,iPhone 7,399.99, 200,128,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+801,APPLE,iPhone 7,289.99, 110,256,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+802,APPLE,iPhone 7,289.99, 310,256,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+803,APPLE,iPhone 7,289.99, 110,256,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+804,APPLE,iPhone 7,399.99, 100,256,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+805,APPLE,iPhone XR,729.99, 270,256,3.0,1792 x 828,6.1,Coral,Apple A12 Bionic,7.0,12.0
+806,APPLE,iPhone XR,729.99, 270,256,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+807,APPLE,iPHONE 6S,369.0,no sale,256,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+808,APPLE,IPHONE 6S,319.0,no sale,256,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+809,APPLE,iPhone XR,729.99, 270,256,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+810,APPLE,iPhone XR,729.99, 270,256,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+811,APPLE,iPhone 6s,186.06, 164,64,2.0,1334 x 750,4.7,Rose Gold,1.84GHz,7.0,12.0
+812,APPLE,iPhone XS,899.99, 100,64,2.0,1334 x 750,4.7,Rose Gold,1.84GHz,7.0,12.0
+813,APPLE,iPhone XS,930.0, 69,256,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
+814,APPLE,iPhone 5s,128.08, 42,32,4.0,2688 x 1242,6.5,Gray,Apple A12 Bionic,7.0,24.0
+815,IPHONE,5s 32gb,299.0,no sale,32,1.0,1136-by-640-pixel,4.0,Grey; Black.,A7 chip with 64-bit architecture,1.2,8.0
+816,APPLE,iPhone 8,469.0, 330,256,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+817,APPLE,iPhone 7,439.99, 160,128,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+818,APPLE,iPhone 7,396.99, 203,128,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+819,APPLE,iPHONE 6S,348.86, 111,128,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+820,APPLE,iPhone 6s,198.95, 141,32,2.0,1334 x 750,4.7,Silver,Apple A9,0.72,12.0
+821,APPLE,iPhone 6,140.0, 60,32,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+822,APPLE,iPhone 8,440.0, 110,256,2.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+823,APPLE,iPhone 8,440.0, 110,256,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+824,APPLE,iPhone 6,190.0, 70,64,1.0,1334 x 750,4.7,Gold,Apple A8,1.2,8.0
+825,APPLE,iPhone 6s,184.97, 115,32,2.0,1334 x 750,4.7,Silver,Apple A9,0.72,12.0
+826,APPLE,iPhone XR,725.0, 175,128,3.0,1792 x 828,6.1,Coral,Apple A12 Bionic,7.0,12.0
+827,APPLE,iPhone 6s,194.64, 264,32,2.0,1334 x 750,4.7,Silver,1.84GHz,7.0,12.0
+828,APPLE,iPHONE 6,241.95, 107,32,2.0,1334 x 750,4.7,Silver,1.84GHz,7.0,12.0
+829,APPLE,iPhone XS,989.99, 240,64,4.0,2688 x 1242,6.5,Silver,Apple A12 Bionic,7.0,24.0
+830,APPLE,iPhone 6s,179.99, 220,64,2.0,1334 x 750,4.7,Space Gray,Apple A9,0.72,12.0
+831,APPLE,iPhone 6,139.99, 230,64,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+832,IPHONE,6s 16gb,159.48, 201,16,2.0,1 334 x 750,4.7,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+833,APPLE,iPhone 6s,228.95, 170,16,2.0,1 334 x 750,4.7,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+834,APPLE,iPhone 6s,349.95, 177,16,2.0,1 334 x 750,4.7,Rose Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+835,APPLE,iPhone 6,139.99, 230,64,1.0,1334 x 750,4.7,Silver,Apple A8,1.2,8.0
+836,APPLE,iPhone 6s,199.99, 200,128,2.0,1334 x 750,4.7,Space Gray,Apple A9,0.72,12.0
+837,APPLE,iPhone 8,375.0, 75,64,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+838,APPLE,iPhone 8,375.0, 200,64,2.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+839,APPLE,iPhone 6,198.78, 151,16,1.0,1920-by-1080-pixel,5.5,Gold; White.,A8 chip with 64-bit architecture; M8 motion coprocessor.,1.2,8.0
+840,APPLE,iPhone XR,675.0, 25,64,3.0,1792 x 828,6.1,Yellow,Apple A12 Bionic,7.0,12.0
+841,APPLE,iPhone XR,675.0, 25,64,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+842,APPLE,iPhone 6s,209.26, 122,16,2.0,1 334 x 750,4.7,Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+843,APPLE,iPhone XR,619.99, 180,16,2.0,1 334 x 750,4.7,Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+844,APPLE,iPhone 7,499.99, 100,256,2.0,1920 x 1080-pixel resolution at 401 ppi,5.5,Gold,A10 Fusion chip,7.0,24.0
+845,APPLE,iPhone 7,328.68, 71,128,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+846,IPHONE,6 16gb,165.39, 121,16,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+847,APPLE,iPhone 6,158.74, 121,16,1.0,1 334 x 750,4.7,Gold; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+848,APPLE,iPhone SE,149.95, 320,32,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+849,APPLE,iPhone 6s,420.86, 38,32,2.0,1920 x 1080,5.5,Gold,Dual-core 1.84 GHz Twister,5.0,12.0
+850,APPLE,iPhone SE,149.95, 320,32,2.0,1136 x 640,4.0,Space gray,Apple A9,0.72,12.0
+851,APPLE,iPhone 8,375.0, 125,64,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+852,APPLE,iPhone 7,398.95, 201,64,2.0,1334 x 750,4.7,Grey,Apple A11 Bionic,7.0,12.0
+853,APPLE,iPhone SE,179.99,no sale,32,2.0,1136 x 640,4.0,Silver,Apple A9,0.72,12.0
+854,APPLE,iPhone XS,999.99, 540,256,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+855,APPLE,iPhone 6s,319.99,no sale,32,2.0,1920 x 1080,5.5,Rose Gold,Apple A9,0.72,12.0
+856,APPLE,iPhone XR,1059.99,no sale,256,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+857,APPLE,iPhone XS,859.99, 460,64,4.0,2688 x 1242,6.5,Space grey,Apple A12 Bionic,7.0,24.0
+858,APPLE,iPhone SE,159.99,no sale,16,2.0,1136 x 640,4.0,Gold,Apple A9,0.72,12.0
+859,APPLE,iPhone 6s,219.99,no sale,16,2.0,1334 x 750,4.7,Silver,Apple A9,0.72,12.0
+860,APPLE,iPhone 7,389.0, 137,256,2.0,750 x 1334,4.7,Red,Apple A10 Fusion,7.0,12.0
+861,APPLE,iPhone SE,159.99,no sale,16,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+862,APPLE,iPhone SE,159.99,no sale,16,2.0,1136 x 640,4.0,Silver,Apple A9,0.72,12.0
+863,APPLE,iPhone 6s,319.99,no sale,32,2.0,1920 x 1080,5.5,Gold,Apple A9,0.72,12.0
+864,APPLE,iPhone SE,247.0, 3,16,2.0,640 x 1136,4.0,Space Grey,Dual-core 1.84 GHz Twister,1.2,12.0
+865,APPLE,iPhone 6s,267.95, 471,16,2.0,640 x 1136,4.0,Space Grey,Dual-core 1.84 GHz Twister,1.2,12.0
+866,APPLE,iPhone 6s,309.0, 430,32,2.0,1920 x 1080,5.5,Silver,Apple A9,0.72,12.0
+867,APPLE,iPhone 6s,315.0, 364,16,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+868,APPLE,iPhone 6,325.0, 704,64,1.0,1920 x 1080,5.5,Gold,Apple A8,1.2,8.0
+870,APPLE,iPhone 7,269.0, 360,32,2.0,750 x 1334,4.7,Jet Black,Apple A10 Fusion,7.0,12.0
+871,APPLE,iPhone 6s,289.0, 390,16,2.0,1920 x 1080,5.5,Silver,Apple A9,0.72,12.0
+872,APPLE,iPhone 8,655.0, 504,256,3.0,1920 x 1080,5.5,Grey,Apple A11 Bionic,7.0,12.0
+873,APPLE,iPhone XS,875.0, 504,64,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+875,APPLE,iPhone 8,645.0, 514,256,3.0,1920 x 1080,5.5,Gold,Apple A11 Bionic,7.0,12.0
+876,APPLE,iPhone 6s,269.0, 470,32,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+877,APPLE,iPhone 6,249.0, 650,16,1.0,1920 x 1080,5.5,Space Gray,Apple A8,1.2,8.0
+878,APPLE,iPhone 6s,325.0, 474,64,2.0,1920 x 1080,5.5,Silver,Apple A9,0.72,12.0
+879,APPLE,iPHONE 6S,195.0, 404,64,2.0,1920 x 1080,5.5,Silver,Apple A9,0.72,12.0
+880,APPLE,iPhone 6s,245.0, 494,128,2.0,1334 x 750,4.7,Rose Gold,Apple A9,0.72,12.0
+881,NO BRAND,no model,279.0, 460,128,2.0,1334 x 750,4.7,Rose Gold,Apple A9,0.72,12.0
+882,APPLE,iPhone 6s,245.0, 494,128,2.0,1 334 x 750,4.7,Silver; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+883,APPLE,iPhone 6,285.0, 614,16,1.0,1920 x 1080,5.5,Silver,Apple A8,1.2,8.0
+884,APPLE,iPhone 6s,279.0, 460,128,2.0,1334 x 750,4.7,Space Gray,Apple A9,0.72,12.0
+886,APPLE,iPhone 6s,325.0, 474,64,2.0,1920 x 1080,5.5,Gold,Apple A9,0.72,12.0
+887,APPLE,iPhone 7,398.63, 390,32,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+888,APPLE,iPhone 7,499.0, 810,256,3.0,1080 x 1920,5.5,Rose Gold,Apple A10 Fusion,7.0,24.0
+889,APPLE,iPhone 6s,285.0, 514,64,2.0,1920 x 1080,5.5,Silver,Apple A9,0.72,12.0
+891,APPLE,iPhone 6S,245.0, 494,64,2.0,1334 x 750,4.7,Rose Gold,Apple A12 Bionic,5.0,12.0
+892,APPLE,iPhone 6s,279.0, 460,128,2.0,1334 x 750,4.7,Silver,Apple A9,0.72,12.0
+896,APPLE,iPhone XS,1179.0, 550,256,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
+898,APPLE,iPhone 8,575.0, 174,64,3.0,1920 x 1080,5.5,Gold,Apple A11 Bionic,7.0,12.0
+899,APPLE,iPhone 7,411.94, 377,32,3.0,1080 x 1920,5.5,Black,Apple A10 Fusion,7.0,24.0
+901,APPLE,iPhone XR,679.0, 120,64,3.0,1792 x 828,6.1,Coral,Apple A12 Bionic,7.0,12.0
+902,APPLE,iPhone 6,329.0, 1050,128,1.0,1920 x 1080,5.5,Space Gray,Apple A8,1.2,8.0
+903,APPLE,iPhone 6s,269.0, 470,32,2.0,1920 x 1080,5.5,Silver,Apple A9,0.72,12.0
+904,APPLE,iPhone XS,1035.0, 554,256,4.0,2436 x 1125,5.8,Space grey,Apple A12 Bionic,7.0,24.0
+907,APPLE,iPhone 6,289.0, 740,64,1.0,1920 x 1080,5.5,Space Gray,Apple A8,1.2,8.0
+908,APPLE,iPhone 6s,319.0, 550,128,2.0,1920 x 1080,5.5,Gold,Apple A9,0.72,12.0
+909,APPLE,iPhone 7,499.0, 810,256,3.0,1080 x 1920,5.5,Jet Black,Apple A10 Fusion,7.0,24.0
+910,APPLE,iPhone 7,499.0, 810,256,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+911,APPLE,iPhone 5S,98.0, 51,16.0,3.0,1080 x 1920,5.5,Space Gray,Apple A10 Fusion,7.0,24.0
+912,APPLE,iPhone 6s,279.0, 460,128,2.0,1334 x 750,4.7,Rose Gold,Apple A9,0.72,12.0
+913,NO BRAND,no model,315.0, 454,128,2.0,1334 x 750,4.7,Rose Gold,Apple A9,0.72,12.0
+914,APPLE,iPhone 6s,279.0, 460,128,2.0,1334 x 750,4.7,Gold,Apple A9,0.72,12.0
+915,APPLE,iPhone 8,525.0, 224,64,3.0,1920 x 1080,5.5,Grey,Apple A11 Bionic,7.0,12.0
+916,APPLE,iPhone 6s,319.0, 550,128,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+917,APPLE,iPhone 6s,315.0, 364,16,2.0,1920 x 1080,5.5,Space Gray,Dual-core 1.84 GHz Twister,5.0,12.0
+918,APPLE,iPhone 7,359.0, 800,256,2.0,750 x 1334,4.7,Black,Apple A10 Fusion,7.0,12.0
+920,REFURBISHED,- Apple,168.0, 132,16,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+921,REFURBISHED,- Apple,149.99,no sale,16,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+922,REFURBISHED,- Apple,699.99,no sale,16,2.0,1920 x 1080,5.5,Space Gray,Apple A9,0.72,12.0
+923,IPHONE,5S 16GB,129.99,no sale,16,2.0,1920 x 1080,3.5,Space Gray,Apple A9,0.72,12.0
+924,APPLE,iPhone 7,308.89, 242,16,2.0,750 x 1334,3.5,Black,Apple A10 Fusion,7.0,12.0
+925,APPLE,iPhone 7,499.99,no sale,32,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+926,REFURBISHED,- Apple,299.99,no sale,32,3.0,1080 x 1920,5.5,Silver,Apple A10 Fusion,7.0,24.0
+927,APPLE,iPhone 6,199.99,no sale,32,1.0,1334 x 750,4.7,Gold,Apple A8,1.2,8.0
+928,APPLE,Iphone 5S,149.99,no sale,32,1.0,1334 x 750,4.7,Gold,Apple A8,1.2,8.0
+929,APPLE,iPhone SE,156.06, 144,32,2.0,1136 x 640,4.0,Gold,Dual-core 1.84 GHz Twister,1.2,12.0
+930,IPHONE,SE 16gb,134.04,no sale,16,2.0,1136-by-640-pixel,4.0,Rose; White.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+931,APPLE,iPhone 7,449.99, 50,32,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+932,APPLE,iPhone 6s,299.99,no sale,16,2.0,1920 x 1080,5.5,Gold,Apple A9,0.72,12.0
+933,APPLE,iPhone 6s,149.99, 350,16,2.0,1334 x 750,4.7,Gold,1.84GHz,0.72,12.0
+934,APPLE,iPhone 6,299.99, 100,64,1.0,1920 x 1080,5.5,Gold,Apple A8,1.2,8.0
+935,APPLE,iPhone XR,699.99, 200,64.0,1.0,1920 x 1080,5.5,Black,Apple A8,1.2,8.0
+936,APPLE,iPhone SE,179.99,no sale,64.0,1.0,1920 x 1080,4.0,Black,Apple A8,1.2,8.0
+937,APPLE,iPhone 7,399.99,no sale,32,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+938,IPHONE,8 64GB,499.99, 200,32,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+939,REFURBISHED,- Apple,289.99, 409,32,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+940,IPHONE,5S 64GB,189.99,no sale,64,2.0,750 x 1334,3.5,Silver,Apple A10 Fusion,7.0,12.0
+941,REFURBISHED,- Apple,189.99,no sale,64,2.0,750 x 1334,3.5,Silver,Apple A10 Fusion,7.0,12.0
+942,NO BRAND,no model,159.99,no sale,64,2.0,750 x 1334,3.5,Silver,Apple A10 Fusion,7.0,12.0
+943,REFURBISHED,- Apple,129.99,no sale,64,2.0,750 x 1334,3.5,Silver,Apple A10 Fusion,7.0,12.0
+944,REFURBISHED,- Apple,159.99,no sale,64,2.0,750 x 1334,3.5,Silver,Apple A10 Fusion,7.0,12.0
+945,APPLE,iPhone SE,249.99,no sale,32,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+946,REFURBISHED,- Apple,129.99,no sale,32,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+947,APPLE,iPhone 6,299.99,no sale,128,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+948,APPLE,iPhone XR,749.99, 249,256,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+949,APPLE,iPhone 6,299.99,no sale,128,1.0,1334 x 750,4.7,Gold,Apple A8,1.2,8.0
+950,REFURBISHED,- Apple,149.99, 420,128,1.0,1334 x 750,4.7,Gold,Apple A8,1.2,8.0
+951,APPLE,iPhone 6,169.99,no sale,32,1.0,1334 x 750,4.7,Silver,Apple A8,1.2,8.0
+952,APPLE,iPhone 6s,299.99, 100,32,2.0,1920 x 1080,5.5,Rose Gold,Apple A9,0.72,12.0
+953,APPLE,iPhone SE,179.99, 120,32,2.0,1136 x 640,4.0,Gold,Apple A9,0.72,12.0
+954,APPLE,iPhone XR,888.0,no sale,32,2.0,1792 x 828,4.0,(PRODUCT)RED,Apple A9,7.0,12.0
+955,REFURBISHED,- Apple,299.99, 300,32,2.0,1792 x 828,4.0,(PRODUCT)RED,Apple A9,7.0,12.0
+956,REFURBISHED,- Apple,280.0, 370,32,2.0,1792 x 828,4.0,(PRODUCT)RED,Apple A9,7.0,12.0
+957,UNLOCKED,iPhone 8,599.99,no sale,32,2.0,1792 x 828,4.0,(PRODUCT)RED,Apple A9,7.0,12.0
+958,APPLE,iPhone 5s,159.99,no sale,16 MB,1.0,1136 x 640,4.0,Gold,Apple A9,1.2,8.0
+959,APPLE,iPhone XS,879.95, 219,16 MB,1.0,2436 x 1125,4.0,Space Grey,Apple A9,7.0,24.0
+960,REFURBISHED,- Apple,349.99, 150,16 MB,1.0,2436 x 1125,4.0,Space Grey,Apple A9,7.0,24.0
+961,APPLE,iPhone XR,899.99, 99,256,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+962,APPLE,iPhone 6s,209.0, 91,16,2.0,1334 x 750,4.7,Gold,Apple A9,0.72,12.0
+963,APPLE,iPhone XR,1299.0,no sale,256,3.0,1792 x 828,6.1,Red,Apple A12 Bionic,7.0,12.0
+964,APPLE,iPhone SE/,159.99,no sale,16,2.0,640x1136,4.0,Black,1.84 GHz,1.2,12.0
+965,APPLE,iPhone 6S,239.99,no sale,16,2.0,640x1136,4.7,Black,1.84 GHz,1.2,12.0
+966,APPLE,iPhone XR,699.99, 200,64.0,2.0,640x1136,4.7,Yellow,1.84 GHz,1.2,12.0
+967,APPLE,iPhone 11,1399.0,no sale,128,4.0,828 x 1792,6.1,Black,Apple A13 Bionic,12.0,12.0
+968,IPHONE,6S 16GB,199.99,no sale,128,4.0,750 x 1334,6.1,Grey,Dual-core 1.84 GHz,12.0,12.0
+969,APPLE,iPhone 6,268.88, 131,64,1.0,1920 x 1080,5.5,Silver,Apple A8,1.2,8.0
+970,APPLE,iPhone 6,299.99, 200,16,1.0,1920 x 1080,5.5,Gold,Apple A8,1.2,8.0
+971,APPLE,iPhone XS,1549.99,no sale,256,4.0,2688 x 1242,6.5,Silver,Apple A12 Bionic,7.0,24.0
+972,APPLE,iPhone 6S,199.99,no sale,256,4.0,2688 x 1242,6.5,Silver,Apple A12 Bionic,7.0,24.0
+973,APPLE,iPhone 11,959.99, 40,64,4.0,828 x 1792,6.1,Red,Apple A13 Bionic,12.0,12.0
+974,APPLE,iPhone 5s,149.99,no sale,64,4.0,828 x 1792,6.1,Red,Apple A13 Bionic,12.0,12.0
+975,APPLE,iPhone XR,824.99, 125,128,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+976,APPLE,iPhone 6,349.95, 7,128,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+977,APPLE,iPhone 6,189.92, 119,64,1.0,1334 x 750,4.7,Gold,Apple A8,1.2,8.0
+978,APPLE,iPhone 6,191.26, 110,64,1.0,1 334 x 750,4.7,Gold; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+979,APPLE,iPhone 6,285.99, 62,64,1.0,1920 x 1080,4.7,Gold,A8 chip with 64-bit architecture M8 motion coprocessor,1.2,8.0
+980,APPLE,iPhone XR,729.99, 270,256,3.0,1792 x 828,6.1,Blue,Apple A12 Bionic,7.0,12.0
+981,APPLE,iPhone 8,499.99, 250,64,2.0,1334 x 750,4.7,Gold,Apple A11 Bionic,7.0,12.0
+982,APPLE,iPhone 6,379.95, 56,64,1.0,1920 x 1080,5.5,Silver,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+983,IPHONE,6 PLUS,369.95, 30,64,1.0,1920 x 1080,5.5,Silver,A8 chip with 64-bit architecture M8 motion coprocessor,1.2,8.0
+984,APPLE,iPhone 6,363.95, 63,64,1.0,1920 x 1080,5.5,Silver,A8 chip with 64-bit architecture M8 motion coprocessor,1.2,8.0
+985,APPLE,iPhone 6,341.18, 55,64,1.0,1920-by-1080-pixel,5.5,Silver; White.,A8 chip with 64-bit architecture; M8 motion coprocessor.,1.2,8.0
+986,IPHONE,6 Plus,332.76, 94,64,1.0,1920-by-1080-pixel,5.5,Grey; Black.,A8 chip with 64-bit architecture; M8 motion coprocessor.,1.2,8.0
+987,APPLE,iPhone SE,169.99,no sale,32,2.0,1136 x 640,4.0,Rose Gold,Apple A9,0.72,12.0
+988,APPLE,iPhone SE,123.95, 75,32,2.0,1136-by-640-pixel,4.0,Grey; Black.,A9 chip with 64-bit&nbsp;architecture,1.2,12.0
+989,APPLE,iPhone 8,409.0, 190,64,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+990,APPLE,iPhone 11,1619.99,no sale,512,4.0,1242 x 2688,6.5,Midnight Green,Apple A13 Bionic,12.0,48.0
+991,APPLE,iPhone 11,1304.99,no sale,256,4.0,1125 x 2436,5.8,Space Gray,Apple A13 Bionic,12.0,48.0
+992,APPLE,iPhone 11,1529.99,no sale,512,4.0,1125 x 2436,5.8,Midnight Green,Apple A13 Bionic,12.0,48.0
+993,IPHONE,6S PLUS,388.86, 71,128,4.0,1920 x 1080,5.5,Silver,A9 chip with 64-bit architecture Embedded M9 motion coprocessor,12.0,12.0
+994,APPLE,iPhone 11,854.99,no sale,128,4.0,828 x 1792,6.1,Yellow,Apple A13 Bionic,12.0,12.0
+995,APPLE,iPHONE 6S,337.95, 162,128,4.0,828 x 1792,6.1,Yellow,Apple A13 Bionic,12.0,12.0
+996,APPLE,iPhone 6S,333.95, 156,128,4.0,828 x 1792,6.1,Yellow,Apple A13 Bionic,12.0,12.0
+997,IPHONE,SE 32GB,287.46, 69,128,4.0,828 x 1792,6.1,Yellow,Apple A13 Bionic,12.0,12.0
+998,APPLE,iPhone 6,285.0, 614,16,1.0,1920 x 1080,5.5,Gold,Apple A8,1.2,8.0
+999,APPLE,iPhone 6s,245.0, 494,16,2.0,1334 x 750,4.7,Space Gray,1.84GHz,1.2,12.0
+1000,APPLE,iPhone 7,309.0, 320,32,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+1002,APPLE,iPhone 6S,245.0, 494,16,2.0,1334 x 750,4.7,Space Gray,Apple A8,5.0,12.0
+1003,APPLE,iPhone 6,148.54, 151,16,1.0,1334 x 750,4.7,Silver,Apple A8,1.2,8.0
+1004,APPLE,iPhone 6,189.86, 35,64,1.0,1334 x 750,4.7,Silver,Apple A8,1.2,8.0
+1005,APPLE,iPhone 7,249.97, 249,32,1.0,1334 x 750-pixel resolution at 326 ppi,4.7,Black,A10 Fusion chip,7.0,12.0
+1006,APPLE,iPhone XS,1049.99, 250,512,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
+1007,APPLE,iPhone XR,735.99, 254,128,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+1008,APPLE,iPhone 7,279.99,no sale,32,2.0,750 x 1334,4.7,Gold,Apple A10 Fusion,7.0,12.0
+1009,APPLE,iPhone 6s,239.42, 227,64,2.0,1334 x 750,4.7,Gold,1.84GHz,7.0,12.0
+1010,IPHONE,6S 32GB,250.0,no sale,32,2.0,1334 x 750,4.7,Gold,1.84GHz,7.0,12.0
+1011,APPLE,iPhone SE,188.89,no sale,32,2.0,1136 x 640,4.0,Silver,Dual-core 1.84 GHz Twister,1.2,12.0
+1012,APPLE,iPhone 6,226.26, 111,32,2.0,1136 x 640,4.0,Silver,Dual-core 1.84 GHz Twister,1.2,12.0
+1013,IPHONE,6 128gb,248.36, 112,128,1.0,1 334 x 750,4.7,Gold; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+1014,APPLE,iPhone 6s,422.95, 141,128,2.0,1920 x 1080,5.5,Gold,Dual-core 1.84 GHz Twister,5.0,12.0
+1015,APPLE,iPhone 6,222.95, 134,128,1.0,1 334 x 750,4.7,Silver; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+1016,APPLE,iPhone 6,259.65, 141,128,1.0,1 334 x 750,4.7,Silver; White,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+1017,APPLE,iPhone 8,529.0, 500,256,2.0,1334 x 750,4.7,Silver,Apple A11 Bionic,7.0,12.0
+1018,APPLE,iPhone 7,339.46, 119,256,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+1019,APPLE,iPhone 6,173.16, 257,256,1.0,1334 x 750,4.7,Space Gray,1.4GHz,7.0,8.0
+1020,APPLE,iPhone 7,429.43, 49,32,3.0,1080 x 1920,5.5,Gold,Apple A10 Fusion,7.0,24.0
+1021,APPLE,iPhone 6s,234.26, 266,64,2.0,1334 x 750,4.7,Rose Gold,Apple A9,0.72,12.0
+1022,IPHONE,6s 128gb,228.86, 190,128,2.0,1 334 x 750,4.7,Rose Gold; White,A9 chip with 64-bit&nbsp;architecture,5.0,12.0
+1023,APPLE,iPhone XR,658.78, 39,64,3.0,1792 x 828,6.1,White,Apple A12 Bionic,7.0,12.0
+1024,APPLE,iPhone 7,407.16, 65,128,3.0,1080 x 1920,5.5,Red,Apple A10 Fusion,7.0,24.0
+1025,APPLE,iPhone 7,295.84, 62,128,2.0,750 x 1334,4.7,Rose Gold,Apple A10 Fusion,7.0,12.0
+1026,APPLE,iPhone 6,224.17, 50,128,1.0,1 334 x 750,4.7,Grey; Black.,Dual-core 1.4 GHz Typhoon (ARM v8-based),1.2,8.0
+1028,APPLE,iPhone XR,658.78, 39,64,1.0,1792 x 828-pixel resolution at 326 ppi,6.1,White,A12 Bionic chip,7.0,12.0
+1029,APPLE,iPhone 6,224.17, 50,128,1.0,1334 x 750,4.7,Space Gray,Apple A8,1.2,8.0
+1030,APPLE,iPhone XR,735.03, 55,256,3.0,1792 x 828,6.1,Black,Apple A12 Bionic,7.0,12.0
+1031,APPLE,iPhone XS,895.15,no sale,64,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
+1033,APPLE,iPhone 7,324.43, 89,128,2.0,750 x 1334,4.7,Silver,Apple A10 Fusion,7.0,12.0
+1034,APPLE,iPhone SE,148.95, 327,128,2.0,1136 x 640,4.0,Silver,Dual-core 1.84 GHz Twister,1.2,12.0
+1035,APPLE,iPhone 6,352.95, 173,128,2.0,1136 x 640,4.0,Silver,Dual-core 1.84 GHz Twister,1.2,12.0
+1036,APPLE,iPhone XR,719.78, 39,128,2.0,1792 x 828-pixel resolution at 326 ppi,6.1,Blue,A12 Bionic chip,7.0,12.0
+1038,APPLE,iPhone X,825.0, 704,256,3.0,2436 x 1125,5.8,Silver,Apple A11 Bionic,7.0,12.0
+1039,APPLE,iPhone 6s,371.0, 6,256,2.0,1920 x 1080,5.5,Rose Gold,Dual-core 1.84 GHz Twister,5.0,12.0
+1040,APPLE,iPhone 6,194.0, 105,256,2.0,1920 x 1080,5.5,Rose Gold,Dual-core 1.84 GHz Twister,5.0,12.0
+1041,APPLE,iPhone XS,859.99, 460,64,4.0,2688 x 1242,6.5,Gold,Apple A12 Bionic,7.0,24.0
